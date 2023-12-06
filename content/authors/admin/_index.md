@@ -54,36 +54,36 @@ skills:
       - name: Research & Development
         description: ''
         percent: 95
-        icon: terminal
+        icon: magnifying-glass
         icon_pack: fas
-      - name: Data Science
+      - name: Programming
         description: ''
         percent: 100
-        icon: chart-line
+        icon: terminal
         icon_pack: fas
-      - name: SQL
+      - name: Project Management
         description: ''
-        percent: 40
-        icon: database
+        percent: 90
+        icon: list-check
         icon_pack: fas
-  - name: Hobbies
+  - name: Soft
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Leadership
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 95
+        icon: flag
         icon_pack: fas
-      - name: Cats
+      - name: Problem Solving
         description: ''
         percent: 100
-        icon: cat
+        icon: check-double
         icon_pack: fas
-      - name: Photography
+      - name: Teamwork
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 95
+        icon: people-group
         icon_pack: fas
 
 # Social/Academic Networking
@@ -129,5 +129,5 @@ During my Bachelor's Thesis, advised by [Gennaro Boggia](https://scholar.google.
 
 During my Master's thesis, advised by [Luigi Alfredo Grieco](https://scholar.google.it/citations?user=HmBQd8IAAAAJ&hl=en&oi=ao), I designed and implemented a security framework for Intelligent Transport Systems (ITS) in Horizon 2020 BONVOYAGE project by leveraging the Attribute Based Encryption.
 
-My Ph.D., advised by [Roberto Di Pietro](https://scholar.google.it/citations?user=Io9QeG0AAAAJ&hl=en&oi=ao), allowed me to design and developing of (i) a dead-reckoning system that leverages the jamming signal to estimate the jammer location; (ii) a privacy-preserving, distributed, and lightweight solution for co-location detection and collision avoidance of autonomous UAVs, and (iii) an anonymous remote identification system for UAVs to allow them to broadcast RemoteID-compliant messages using ephemeral pseudonyms.
+My Ph.D., advised by [Roberto Di Pietro](https://scholar.google.it/citations?user=Io9QeG0AAAAJ&hl=en&oi=ao), allowed me to design and developing of (i) a dead-reckoning system that leverages the jamming signal to estimate the UAV position; (ii) a privacy-preserving, distributed, and lightweight solution for co-location detection and collision avoidance of autonomous UAVs, and (iii) an anonymous remote identification system for UAVs to allow them to broadcast RemoteID-compliant messages using ephemeral pseudonyms.
 {style="text-align: justify;"}
