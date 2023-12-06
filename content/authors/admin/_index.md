@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Pietro Tedeschi
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Pietro
+last_name: Tedeschi
 
 # Status emoji
 status:
