@@ -53,12 +53,12 @@ skills:
     items:
       - name: Research & Development
         description: ''
-        percent: 95
+        percent: 100
         icon: magnifying-glass
         icon_pack: fas
       - name: Programming
         description: ''
-        percent: 100
+        percent: 80
         icon: terminal
         icon_pack: fas
       - name: Project Management

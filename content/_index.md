@@ -83,6 +83,14 @@ sections:
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
+        - title: Security Researcher 
+          company: Consorzio Nazionale Interuniversitario per le Telecomunicazioni (CNIT)
+          company_url: 'https://www.cnit.it/en/'
+          company_logo: org-x
+          location: California
+          date_start: '2017-03-01'
+          date_end: '2018-08-31'
+          description: Design and Development of Security Protocols and Architecture for the [EU Horizon 2020 SymbIoTe](https://www.symbiote-h2020.eu/) Project.
     design:
       columns: '2'
   - block: accomplishments
