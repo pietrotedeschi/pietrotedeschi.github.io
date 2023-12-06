@@ -54,8 +54,8 @@ skills:
       - name: Research & Development
         description: ''
         percent: 95
-        icon: researcherid
-        icon_pack: academicons
+        icon: terminal
+        icon_pack: fas
       - name: Data Science
         description: ''
         percent: 100
@@ -117,7 +117,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: /#
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -130,6 +130,4 @@ During my Bachelor's Thesis, advised by [Gennaro Boggia](https://scholar.google.
 During my Master's thesis, advised by [Luigi Alfredo Grieco](https://scholar.google.it/citations?user=HmBQd8IAAAAJ&hl=en&oi=ao), I designed and implemented a security framework for Intelligent Transport Systems (ITS) in Horizon 2020 BONVOYAGE project by leveraging the Attribute Based Encryption.
 
 My Ph.D., advised by [Roberto Di Pietro](https://scholar.google.it/citations?user=Io9QeG0AAAAJ&hl=en&oi=ao), allowed me to design and developing of (i) a dead-reckoning system that leverages the jamming signal to estimate the jammer location; (ii) a privacy-preserving, distributed, and lightweight solution for co-location detection and collision avoidance of autonomous UAVs, and (iii) an anonymous remote identification system for UAVs to allow them to broadcast RemoteID-compliant messages using ephemeral pseudonyms.
-
-During my Ph.D, 12 papers published to international journals, 7 papers published to international conferences, 1 contribution for the Encyclopedia of Cryptography, Security and Privacy, and 4 patents have been produced.
 {style="text-align: justify;"}
