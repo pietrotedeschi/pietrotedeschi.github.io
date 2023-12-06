@@ -53,11 +53,11 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Research & Development
         description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
+        percent: 95
+        icon: researcherid
+        icon_pack: academicons
       - name: Data Science
         description: ''
         percent: 100
