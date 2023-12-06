@@ -78,7 +78,7 @@ sections:
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
-          company_logo: org-x
+          company_logo: building
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
@@ -86,11 +86,11 @@ sections:
         - title: Security Researcher 
           company: Consorzio Nazionale Interuniversitario per le Telecomunicazioni (CNIT)
           company_url: 'https://www.cnit.it/en/'
-          company_logo: org-x
-          location: California
+          company_logo: building
+          location: Bari, Italy
           date_start: '2017-03-01'
           date_end: '2018-08-31'
-          description: Design and Development of Security Protocols and Architecture for the [EU Horizon 2020 SymbIoTe](https://www.symbiote-h2020.eu/) Project.
+          description: Design and Development of Security Protocols and Architectures for the [EU Horizon 2020 SymbIoTe](https://www.symbiote-h2020.eu/) Project.
     design:
       columns: '2'
   - block: accomplishments
@@ -189,14 +189,14 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
   - block: collection
     id: featured
     content:
