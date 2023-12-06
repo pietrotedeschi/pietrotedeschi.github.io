@@ -31,7 +31,8 @@ interests:
   - Wireless Security
   - Privacy Preserving Systems
   - Applied Cryptography
-  - Internet of Things, and Cyber-Physical Systems Security
+  - Internet of Things
+  - Cyber-Physical Systems Security
 
 # Education to show in About widget
 education:
