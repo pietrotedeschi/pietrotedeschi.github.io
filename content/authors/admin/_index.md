@@ -40,6 +40,7 @@ education:
   courses:
     - course: Ph.D. in Computer Science and Engineering
       institution: Hamad Bin Khalifa University, Doha, Qatar
+      advisor: Prof. Roberto Di Pietro
       year: 2021
     - course: Master Degree in Computer Science and Engineering
       institution: Politecnico di Bari
