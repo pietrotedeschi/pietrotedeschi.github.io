@@ -65,7 +65,7 @@ sections:
         - title: Senior Security Researcher
           company: Technology Innovation Institute
           company_url: 'https://www.tii.ae/'
-          company_logo: org-x
+          # company_logo: org-x
           location: Abu Dhabi, United Arab Emirates
           date_start: '2022-01-10'
           date_end: ''
@@ -79,7 +79,7 @@ sections:
         - title: Ph.D 
           company: Hamad Bin Khalifa University
           company_url: 'https://www.hbku.edu.qa/en'
-          company_logo: building
+          # company_logo: building
           location: Doha, Qatar
           date_start: '2018-09-01'
           date_end: '2021-12-31'
@@ -87,7 +87,7 @@ sections:
         - title: Security Researcher 
           company: Consorzio Nazionale Interuniversitario per le Telecomunicazioni (CNIT)
           company_url: 'https://www.cnit.it/en/'
-          company_logo: building
+          # company_logo: building
           location: Bari, Italy
           date_start: '2017-03-01'
           date_end: '2018-08-31'
