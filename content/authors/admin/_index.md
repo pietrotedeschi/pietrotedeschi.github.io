@@ -2,9 +2,6 @@
 # Display name
 title: Pietro Tedeschi
 
-# Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
-
 # Full name (for SEO)
 first_name: Pietro
 last_name: Tedeschi
@@ -25,28 +22,28 @@ organizations:
     url: https://www.tii.ae/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Unmanned Aerial Vehicles Security, Maritime Security, Wireless Security, Internet of Things (IoT), Applied Cryptography, Privacy Preserving Systems, and Cyber-Physical Systems Security.
 
 # Interests to show in About widget
 interests:
-  - Security
-  - Privacy
-  - Unmanned Aerial Vehicles
+  - Unmanned Aerial Vehicles Security
+  - Maritime Security
+  - Wireless Security
+  - Privacy Preserving Systems
   - Applied Cryptography
-  - Internet of Things
+  - Internet of Things, and Cyber-Physical Systems Security
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Computer Science and Engineering
+    - course: Ph.D in Computer Science and Engineering
       institution: Hamad Bin Khalifa University, Doha, Qatar
-      advisor: Prof. Roberto Di Pietro
       year: 2021
-    - course: Master Degree in Computer Science and Engineering
-      institution: Politecnico di Bari
+    - course: MSc in Computer Science and Engineering (cum laude)
+      institution: Politecnico di Bari, Bari, Italy
       year: 2017
-    - course: Bachelor Degree in Computer Science, and Automation Engineering
-      institution: Politecnico di Bari
+    - course: BSc in Computer Science, and Automation Engineering
+      institution: Politecnico di Bari, Bari, Italy
       year: 2014
 
 # Skills
@@ -126,9 +123,7 @@ social:
 highlight_name: true
 ---
 
-I am currently a Senior Security Researcher at [Technology Innovation Institute](https://www.tii.ae/), ex Security Researcher at [Consorzio Nazionale Interuniversitario per le Telecomunicazioni](https://www.cnit.it/en/). My major research interests include Unmanned Aerial Vehicles Security, Maritime Security, Wireless Security, Internet of Things (IoT), Applied Cryptography, Privacy Preserving Systems, and Cyber-Physical Systems Security.
-
-I got both my Bachelor and my Master's Degree (with honors) in Computer Science and Engineering at Politecnico di Bari, Italy, and a Ph.D. in Computer Science and Engineering at Hamad Bin Khalifa University in Doha, Qatar.
+I am currently a Senior Security Researcher at [Technology Innovation Institute](https://www.tii.ae/), ex Security Researcher at [Consorzio Nazionale Interuniversitario per le Telecomunicazioni](https://www.cnit.it/en/).
 
 During my Bachelor's Thesis, advised by [Gennaro Boggia](https://scholar.google.it/citations?user=uKhe8rkAAAAJ&hl=en&oi=ao), I came up with a lightweight key agreement protocol for constrained IoT devices in IEEE 802.15.4e networks by adopting the Elliptic Curve Diffie Hellman (ECDH) protocol and the implicit certificates ECQV.
 
@@ -136,5 +131,5 @@ During my Master's thesis, advised by [Luigi Alfredo Grieco](https://scholar.goo
 
 My Ph.D., advised by [Roberto Di Pietro](https://scholar.google.it/citations?user=Io9QeG0AAAAJ&hl=en&oi=ao), allowed me to design and developing of (i) a dead-reckoning system that leverages the jamming signal to estimate the jammer location; (ii) a privacy-preserving, distributed, and lightweight solution for co-location detection and collision avoidance of autonomous UAVs, and (iii) an anonymous remote identification system for UAVs to allow them to broadcast RemoteID-compliant messages using ephemeral pseudonyms.
 
-During my Ph.D., 12 papers published to international journals, 7 papers published to international conferences, 1 contribution for the Encyclopedia of Cryptography, Security and Privacy, and 4 patents have been produced.
+During my Ph.D, 12 papers published to international journals, 7 papers published to international conferences, 1 contribution for the Encyclopedia of Cryptography, Security and Privacy, and 4 patents have been produced.
 {style="text-align: justify;"}
