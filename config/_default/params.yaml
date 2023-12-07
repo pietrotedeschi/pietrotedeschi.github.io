@@ -11,8 +11,6 @@ appearance:
   font: minimal
   font_size: L
 
-highlight_name: true
-
 # SEO
 
 marketing:
