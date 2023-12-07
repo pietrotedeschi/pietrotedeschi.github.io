@@ -13,7 +13,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2021-01-01'
+date: '2023-06-14'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2023-12-07T07:05:01.205480Z'
@@ -27,9 +27,9 @@ publication_types:
 publication: '*Encyclopedia of Cryptography, Security and Privacy*'
 publication_short: ''
 
-doi: ''
+doi: '10.1007/978-3-642-27739-9_1751-2'
 
-abstract: ''
+abstract: 'Chaffing and winnowing, conceived by Ronald Rivest (1998), is a technique that allows to provide data confidentiality over an insecure channel without using encryption. The term winnowing – suggested by Ronald Rivest’s father – means “to separate out or eliminate the poor or useless parts,” while the term chaff is used to identify “useless parts of wheat.” The technique was proposed as a proof-of-concept to demonstrate how to achieve data confidentiality without involving encryption or steganography while at the same time preventing an adversary from collecting sensitive data (Katz and Lindell, 2014).'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -40,7 +40,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://link.springer.com/referenceworkentry/10.1007/978-3-642-27739-9_1751-2'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -68,5 +68,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

@@ -1,6 +1,5 @@
 ---
-title: 'URANUS: Radio Frequency Tracking, Classification and Identification of Unmanned
-  Aircraft Vehicles'
+title: 'URANUS: Radio Frequency Tracking, Classification and Identification of Unmanned Aircraft Vehicles'
 
 # Authors
 # A YAML list of author names
@@ -31,9 +30,9 @@ publication_types:
 publication: '*IEEE Open Journal of Vehicular Technology*'
 publication_short: ''
 
-doi: ''
+doi: '10.1109/OJVT.2023.3333676'
 
-abstract: ''
+abstract: 'Safety and security issues for Critical Infrastructures are growing as attackers adopt drones as an attack vector flying in sensitive airspaces, such as airports, military bases, city centers, and crowded places. Despite the use of UAVs for logistics, shipping recreation activities, and commercial applications, their usage poses severe concerns to operators due to the violations and the invasions of the restricted airspaces. A cost-effective and real-time framework is needed to detect the presence of drones in such cases. In this contribution, we propose an efficient radio frequency-based detection framework called URANUS. We leverage real-time data provided by the Radio Frequency/Direction Finding system, and radars in order to detect, classify and identify drones (multi-copter and fixed-wings) invading no-drone zones. We adopt a Multilayer Perceptron neural network to identify and classify UAVs in real-time, with 90% accuracy. For the tracking task, we use a Random Forest model to predict the position of a drone with an MSE≈0.29, MAE≈0.04, and R2≈0.93. Furthermore, coordinate regression is performed using Universal Transverse Mercator coordinates to ensure high accuracy. Our analysis shows that URANUS is an ideal framework for identifying, classifying, and tracking UAVs that most Critical Infrastructure operators can adopt.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -44,9 +43,9 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/10320374'
+url_code: 'https://github.com/pdigennaro/uranus2/'
+url_dataset: 'https://github.com/pdigennaro/uranus2/tree/main/datasets'
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -72,5 +71,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

@@ -17,7 +17,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2022-01-01'
+date: '2022-12-04'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2023-12-07T07:05:01.216968Z'
@@ -31,9 +31,9 @@ publication_types:
 publication: '*GLOBECOM 2022-2022 IEEE Global Communications Conference*'
 publication_short: ''
 
-doi: ''
+doi: '10.1109/GLOBECOM48099.2022.10000705'
 
-abstract: ''
+abstract: 'Wireless enabling technologies in critical infrastructures are increasing the efficiency of communications. Most of these technologies are vulnerable to jamming attacks. Jamming attacks are among the most effective countermeasures to attack and compromise their availability. Jamming is an interfering signal that limits the intended receiver from correctly receiving the messages. Localizing a jammer deployed by the adversary in wireless sensor networks becomes difficult, if not impossible, due to the inaccessibility of the affected sensors in the network. This paper proposes an effective yet efficient jammer localization scheme where battery-free Radio-Frequency Identification (RFID) sensor tags harvest the energy from the signal emitted by a powerful jammer. We compute the distance and estimate the actual jammer location based on the power received at each energy-harvesting node. We conduct extensive simulations campaign to test and illustrate the effectiveness of the proposed scheme. Finally, we demonstrate the possibility of deploying the proposed scheme with off-shelf equipment and consuming only 0.2175 mJ.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -44,7 +44,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10000705/'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -72,5 +72,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

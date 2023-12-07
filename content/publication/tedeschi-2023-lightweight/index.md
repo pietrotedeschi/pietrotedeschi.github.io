@@ -28,9 +28,9 @@ publication_types:
 publication: '*ACSAC 23 - Annual Computer Security Applications Security Conference*'
 publication_short: ''
 
-doi: ''
+doi: '10.1145/3627106.3627174'
 
-abstract: ''
+abstract: 'Discovering mutual proximity and avoiding collisions is one of the most critical services needed by the next generation of Unmanned Aerial Vehicles (UAVs). However, currently available solutions either rely on sharing mutual locations, neglecting the location privacy of involved parties, or are applicable for fully autonomous vehicles only—leaving unaddressed Remotely-Piloted UAVs’ safety needs. Alternatively, proximity can be discovered by adding sensing capabilities. However, in addition to the cost of the sensors, the complexity of integration, and the toll on the energy budget, the effectiveness of such solutions is usually limited by short detection ranges, making them hardly useful in high-mobility scenarios. In this paper, we propose LPPD (an acronym for Lightweight Privacy-preserving Proximity Discovery), a unique solution for privacy-preserving proximity discovery among remotely piloted UAVs based on the exchange of wireless messages. LPPD integrates two main building blocks: (i) a custom space tessellation technique based on randomized spheres; and, (ii) a lightweight cryptographic primitive for private-set intersection. Another feature enjoyed by LPPD is that it does not require online third parties. LPPD is rooted in sound theoretical results and is supported by an experimental assessment performed on a real drone. In particular, experimental results show that LPPD achieves 100% proximity discovery while taking only 39.66 milliseconds in the most lightweight configuration and draining only the 5 · 10− 6% of the UAV’s battery capacity. In addition, LPPD’s security properties are formally verified.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -41,8 +41,8 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3627106.3627174'
+url_code: 'https://github.com/pietrotedeschi/lppd/'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -69,5 +69,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

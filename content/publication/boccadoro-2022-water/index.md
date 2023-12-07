@@ -17,7 +17,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2022-01-01'
+date: '2022-03-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2023-12-07T07:05:01.152204Z'
@@ -31,9 +31,9 @@ publication_types:
 publication: '*Ad Hoc Networks*'
 publication_short: ''
 
-doi: ''
+doi: '10.1016/j.adhoc.2021.102749'
 
-abstract: ''
+abstract: 'Water pollution is a critical issue that affects the entire ecosystem, with non-negligible consequences on humans’ health, thus inducing economic and social concerns. This paper focuses on an Internet of Things water quality prediction system, namely WaterS, that remotely communicates gathered measurements leveraging the Sigfox communication technology. The solution addresses the water pollution problem while considering the peculiar Internet of Things constraints such as energy efficiency and autonomy. The proposal demonstrateshow it is possible to detect and predict water quality parameters such as pH, conductivity, oxygen, and temperature by using WaterS, the Tiziano Project dataset, and a Deep Learning algorithm based on a Long Short-Term Memory recurrent neural network. The discussed water quality measurements are referred to the dataset that belongs to the Tiziano Project, in a period of time spanning from 2008 to 2012. The Long Short-Term Memory applied to predict the water quality parameters achieves high accuracy and a low Mean Absolute Error of 0.020, a Mean Square Error of 0.092, and finally a Cosine Proximity of 0.94. The obtained results are analyzed in terms of protocol suitability of the current architecture toward large-scale deployments. From a networking perspective, with an increasing number of Sigfox-enabled end-devices, the Packet Error Rate increases as well up to 4% with the largest envisioned deployment. Finally, the source code of WaterS ecosystem has been released as open-source, to encourage and promote research activities from both Industry and Academia.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -44,7 +44,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S157087052100233X'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -72,5 +72,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

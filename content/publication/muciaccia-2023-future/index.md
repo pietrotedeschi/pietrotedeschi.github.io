@@ -13,7 +13,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2023-01-01'
+date: '2023-03-14'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2023-12-07T07:05:01.220779Z'
@@ -27,9 +27,9 @@ publication_types:
 publication: '*Frontiers in the Internet of Things*'
 publication_short: ''
 
-doi: ''
+doi: '10.3389/friot.2023.1140799'
 
-abstract: ''
+abstract: 'Nowadays, every industry across the globe is facing a disruptive transformation enabled by digitalization processes. Also, the industry of infrastructures, such as telecom, energy, transportation, and water systems, will be reshaped by the digitalization of physical assets mainly enabled by IoT technologies. An outstanding role in this scenario will be played by digital platforms, which will mediate the provisioning of services based on infrastructure. This process can revolutionize the industry-changing business models, unlocking great opportunities and posing complex challenges. In this paper, we investigate digitalization and the platformization processes and how they affect the infrastructures. We describe the models related to these processes in a systematic and interdisciplinary way and provide a comprehensive survey on technological, economic, and social issues. As a result of the research, we discuss the opportunities and risks of the processes, and we propose several approaches to address them.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -40,7 +40,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://www.frontiersin.org/articles/10.3389/friot.2023.1140799/full'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -68,5 +68,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

@@ -15,7 +15,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2022-01-01'
+date: '2022-10-24'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2023-12-07T07:05:01.190056Z'
@@ -29,9 +29,9 @@ publication_types:
 publication: '*Computer Networks*'
 publication_short: ''
 
-doi: ''
+doi: '10.1016/j.comnet.2022.109246'
 
-abstract: ''
+abstract: 'Satellite-based Communication (SATCOM) systems are gaining renewed momentum in Industry and Academia, thanks to innovative services introduced by leading tech companies and the promising impact they can deliver towards the global connectivity objective tackled by early 6G initiatives. On the one hand, the emergence of new manufacturing processes and radio technologies promises to reduce service costs while guaranteeing outstanding communication latency, available bandwidth, flexibility, and coverage range. On the other hand, cybersecurity techniques and solutions applied in SATCOM links should be updated to reflect the substantial advancements in attacker capabilities characterizing the last two decades. However, business urgency and opportunities are leading operators towards challenging system trade-offs, resulting in an increased attack surface and a general relaxation of the available security services. In this paper, we tackle the cited problems and present a comprehensive survey on the link-layer security threats, solutions, and challenges faced when deploying and operating SATCOM systems. Specifically, we classify the literature on security for SATCOM systems into two main branches, i.e., physical-layer security and cryptography schemes. Then, we further identify specific research domains for each of the identified branches, focusing on dedicated security issues, including, e.g., physical-layer confidentiality, anti-jamming schemes, anti-spoofing strategies, and quantum-based key distribution schemes. For each of the above domains, we highlight the most essential techniques, peculiarities, advantages, disadvantages, lessons learned, and future directions. Finally, we also identify emerging research topics whose additional investigation by Academia and Industry could further attract researchers and investors, ultimately unleashing the full potential behind ubiquitous satellite communications.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -42,7 +42,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S138912862200319X'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -70,5 +70,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

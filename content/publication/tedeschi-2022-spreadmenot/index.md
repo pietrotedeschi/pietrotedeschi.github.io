@@ -14,7 +14,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2022-01-01'
+date: '2022-06-24'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2023-12-07T07:05:01.163280Z'
@@ -28,9 +28,9 @@ publication_types:
 publication: '*IEEE Transactions on Dependable and Secure Computing*'
 publication_short: ''
 
-doi: ''
+doi: '10.1109/TDSC.2022.3186153'
 
-abstract: ''
+abstract: 'A plethora of contact tracing apps have been developed and deployed in several countries around the world in the battle against Covid-19 . However, people are rightfully concerned about the security and privacy risks of such applications. To address these issues, in this paper we provide two main contributions. First, we present an in-depth analysis of the security and privacy characteristics of the most prominent contact tracing protocols, under both passive and active adversaries. The results of our study indicate that all protocols are vulnerable to a variety of attacks, mainly due to the deterministic nature of the underlying cryptographic protocols. Our second contribution is the design and implementation of SpreadMeNot , a novel contact tracing protocol that can defend against most passive and active attacks, thus providing strong (provable) security and privacy guarantees that are necessary for such a sensitive application. Our detailed analysis, both formal and experimental, shows that SpreadMeNot satisfies security, privacy, and performance requirements, hence being an ideal candidate for building a contact tracing solution that can be adopted by the majority of the general public, as well as to serve as an open-source reference for further developments in the field.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -41,8 +41,8 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9806335'
+url_code: 'https://github.com/pietrotedeschi/spreadmenot'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -69,5 +69,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
