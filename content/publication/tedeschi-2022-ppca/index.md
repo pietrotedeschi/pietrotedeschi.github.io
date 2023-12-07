@@ -1,6 +1,5 @@
 ---
-title: PPCA-Privacy-Preserving Collision Avoidance for Autonomous Unmanned Aerial
-  Vehicles
+title: 'PPCA-Privacy-Preserving Collision Avoidance for Autonomous Unmanned Aerial Vehicles'
 
 # Authors
 # A YAML list of author names
