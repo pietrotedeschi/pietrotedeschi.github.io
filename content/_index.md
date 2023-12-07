@@ -308,7 +308,7 @@ sections:
     content:
       title: Academic Services
       text: |-
-        * Invited Speaker
+        * #### Invited Speaker ####
           * ITASEC '23: Security and Privacy Issues in the Age of Drones
           * Apulia CyberSecurity Forum 2022
         * Journal Editor
