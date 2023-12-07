@@ -303,6 +303,15 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    id: academicservices
+    content:
+      title: Academic Services
+      text: |-
+        Prova Prova Prova.
+    design:
+      columns: '2'
+      view: citation
   # - block: collection
   #   id: talks
   #   content:
