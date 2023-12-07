@@ -122,7 +122,6 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
-highlight_superuser: true
 ---
 
 I am currently a Senior Security Researcher at [Technology Innovation Institute](https://www.tii.ae/), ex Security Researcher at [Consorzio Nazionale Interuniversitario per le Telecomunicazioni](https://www.cnit.it/en/).

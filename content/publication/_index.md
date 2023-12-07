@@ -9,6 +9,9 @@ cms_exclude: true
 #   4 = Citation
 view: 1
 
+highlight_name: true
+highlight_superuser: true
+
 # Optional header image (relative to `static/media/` folder).
 banner:
   caption: ''
