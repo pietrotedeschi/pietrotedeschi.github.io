@@ -14,7 +14,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2019-01-01'
+date: '2019-06-10'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2023-12-07T07:05:01.102534Z'
@@ -30,9 +30,9 @@ publication: '*2019 IEEE Conference on Communications and Network Security (CNS)
   D.C., USA*'
 publication_short: ''
 
-doi: ''
+doi: '10.1109/CNS.2019.8802717'
 
-abstract: ''
+abstract: 'In this paper, we show, for the first time in the literature, that the common assumption that jamming is an effective way to neutralise drones, is false. In particular, we propose JAM-ME a solution that allows the drone to exploit an adversarial jamming signal to implement an emergency but yet effective navigation system, enabling the drone to accomplish its mission. Our contributions are manifold: first, we revise the jamming based anti-drone techniques; second, we introduce a basic model for JAM-ME and accompanying mathematical tool-rooted in systems control theory. Further, we show through an extensive simulation campaign that JAM-ME do allow a drone to accomplish its mission in a jammed area. Finally, we also discuss possible techniques to mitigate the impact of JAM-ME as well as its limitations, and we conclude highlighting further research directions. We believe that our contribution, other than being interesting on its own, can pave the way for further research in the highlighted directions, as well as having a compelling follow up from a practitioner point of view.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -43,7 +43,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8802717'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -71,5 +71,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

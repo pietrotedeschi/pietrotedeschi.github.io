@@ -15,7 +15,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2018-01-01'
+date: '2018-12-09'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2023-12-07T07:05:01.109945Z'
@@ -29,9 +29,9 @@ publication_types:
 publication: '*2018 IEEE Globecom Workshops (GC Wkshps)*'
 publication_short: ''
 
-doi: ''
+doi: '10.1109/GLOCOMW.2018.8644494'
 
-abstract: ''
+abstract: 'Conventional Key Management Protocols establish secure communication channels by using asymmetric cryptography based on “fixed” public keys. In the Internet of Things context, it is preferable to have a good level of freshness of the cryptographic material. But efficient solutions leveraging “ephemeral” public keys are not available yet. The work presented herein solves this problem by conceiving a novel key agreement methodology integrating the Blockchain technology. Specifically, Blockchain is used to store X.509 certificates related to the initial fixed public keys of devices, to publish new ephemeral public keys, and to help the verification of the authenticity of ephemeral public keys without sending signatures and additional X.509 certificates. A preliminary comparison against Transport Layer Security protocol and other customized key agreement schema presented in the literature demonstrates that the proposed approach registers low communication overhead, limited energy consumptions, and acceptable communication latencies while ensuring the lowest memory footprint.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -42,7 +42,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8644494'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -70,5 +70,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
