@@ -1,6 +1,5 @@
 ---
-title: $ A^ 2RID $--Anonymous Direct Authentication and Remote Identification of Commercial
-  Drones
+title: $A^ 2RID$--Anonymous Direct Authentication and Remote Identification of Commercial Drones
 
 # Authors
 # A YAML list of author names

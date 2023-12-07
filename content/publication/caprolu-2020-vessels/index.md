@@ -16,7 +16,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2020-01-01'
+date: '2020-06-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2023-12-07T07:05:01.137316Z'
@@ -30,9 +30,9 @@ publication_types:
 publication: '*IEEE Communications Magazine*'
 publication_short: ''
 
-doi: ''
+doi: '10.1109/MCOM.001.1900632'
 
-abstract: ''
+abstract: 'Vessels cybersecurity is gaining momentum as a result of a few recent attacks on vessels at sea. These recent attacks have shocked the maritime domain, which was thought to be relatively immune to cyber threats. That belief is now over, as proved by recent mandates issued by the International Maritime Organization. According to these regulations, all vessels should be the subject of a cybersecurity risk analysis, and technical controls should be adopted to mitigate the resulting risks. This initiative is laudable since, despite the recent incidents, the vulnerabilities and threats affecting modern vessels are still unclear to operating entities, leaving the potential for dreadful consequences of further attacks just a matter of "when," not "if." In this contribution, we investigate and systematize the major security weaknesses affecting systems and communication technologies adopted in modern vessels. Specifically, we describe the architecture and main features of the different systems, pointing out their main security issues, and specifying how they were exploited by attackers to cause service disruption and relevant financial losses. We also identify a few countermeasures to the introduced attacks. Finally, we highlight a few research challenges to be addressed by industry and academia to strengthen vessels security.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -43,7 +43,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/9141222'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -71,5 +71,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

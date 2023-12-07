@@ -1,6 +1,5 @@
 ---
-title: 'Interoperation of IoT platforms in confined Smart Spaces: The symbIoTe Smart
-  Space Architecture'
+title: 'Interoperation of IoT platforms in confined Smart Spaces: The symbIoTe Smart Space Architecture'
 
 # Authors
 # A YAML list of author names

@@ -1,5 +1,5 @@
 ---
-title: Leveraging jamming to help drones complete their mission
+title: 'Leveraging Jamming to Help Drones Complete Their Mission'
 
 # Authors
 # A YAML list of author names

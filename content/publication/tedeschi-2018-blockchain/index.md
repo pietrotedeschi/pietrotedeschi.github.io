@@ -1,6 +1,5 @@
 ---
-title: 'When blockchain makes ephemeral keys authentic: a novel key agreement mechanism
-  in the IoT world'
+title: 'When Blockchain Makes Ephemeral Keys Authentic: A Novel Key Agreement Mechanism in the IoT World'
 
 # Authors
 # A YAML list of author names

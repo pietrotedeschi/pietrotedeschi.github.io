@@ -1,5 +1,5 @@
 ---
-title: Multi-Domain Access Rights Composition in Federated IoT Platforms
+title: 'Multi-Domain Access Rights Composition in Federated IoT Platforms'
 
 # Authors
 # A YAML list of author names

@@ -1,6 +1,5 @@
 ---
-title: Lightweight Privacy-Preserving Proximity Discovery for Remotely-Controlled
-  Drones
+title: 'Lightweight Privacy-Preserving Proximity Discovery for Remotely-Controlled Drones'
 
 # Authors
 # A YAML list of author names
