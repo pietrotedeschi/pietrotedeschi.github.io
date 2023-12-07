@@ -1,6 +1,5 @@
 ---
-title: 'Security in Energy Harvesting Networks: A Survey of Current Solutions and
-  Research Challenges'
+title: 'Security in Energy Harvesting Networks: A Survey of Current Solutions and Research Challenges'
 
 # Authors
 # A YAML list of author names
@@ -15,7 +14,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2020-01-01'
+date: '2020-08-18'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2023-12-07T07:05:01.144826Z'
@@ -29,9 +28,9 @@ publication_types:
 publication: '*IEEE Communications Surveys & Tutorials*'
 publication_short: ''
 
-doi: ''
+doi: '10.1109/COMST.2020.3017665'
 
-abstract: ''
+abstract: 'The recent advancements in hardware miniaturization capabilities have boosted the diffusion of systems based on Energy Harvesting (EH) technologies, as a means to power embedded wireless devices in a sustainable and low-cost fashion. Despite the undeniable management advantages, the intermittent availability of the energy source and the limited power supply has led to challenging system trade-offs, resulting in an increased attack surface and a general relaxation of the available security services. In this paper, we survey the security issues, applications, techniques, and challenges arising in wireless networks powered via EH technologies. We explore the vulnerabilities of EH networks, and we provide a comprehensive overview of the scientific literature, including attack vectors, cryptography techniques, physical-layer security schemes for data secrecy, and additional physical-layer countermeasures. For each of the identified macro-areas, we compare the scientific contributions across a range of shared features, indicating the pros and cons of the described techniques, the research challenges, and a few future directions. Finally, we also provide an overview of the emerging topics in the area, such as Non-Orthogonal Multiple Access (NOMA) and Rate-Splitting Multiple Access (RSMA) schemes, and Intelligent Reconfigurable Surfaces, that could trigger the interest of industry and academia and unleash the full potential of pervasive EH wireless networks.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -42,7 +41,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9170604'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -70,5 +69,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
