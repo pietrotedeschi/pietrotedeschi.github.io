@@ -16,7 +16,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2018-01-01'
+date: '2019-01-10'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2023-12-07T07:05:01.095072Z'
@@ -30,9 +30,9 @@ publication_types:
 publication: '*Internet Technology Letters*'
 publication_short: ''
 
-doi: ''
+doi: '10.1002/itl2.74'
 
-abstract: ''
+abstract: 'The Internet of Things (IoT) represents the enabling paradigm of a huge number of smart applications, spanning from short-range communications to Low-Power Wide-Area Network (LPWAN). Among them, environmental monitoring becomes more and more challenging as the area of interest is difficult to reach. The present contribution proposes WaterS, an open-source project that relies on low-cost and rapid-prototyping technologies. It tackles the main challenges of remote water quality monitoring systems taking advantage of the Sigfox protocol stack. The realized experimental setup is able to gather geo-referenced water quality measurements. Finally, it successfully addresses self-sufficiency thanks to solar energy harvesting.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -43,7 +43,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1002/itl2.74'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -71,5 +71,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

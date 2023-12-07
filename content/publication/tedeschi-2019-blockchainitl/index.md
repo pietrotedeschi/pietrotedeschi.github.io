@@ -29,7 +29,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Wiley Internet Technology Letters*'
+publication: '*Internet Technology Letters*'
 publication_short: ''
 
 doi: '10.1002/itl2.72'
