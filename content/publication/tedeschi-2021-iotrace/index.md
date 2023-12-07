@@ -1,6 +1,5 @@
 ---
-title: 'IoTrace: a flexible, efficient, and privacy-preserving IoT-enabled architecture
-  for contact tracing'
+title: 'IoTrace: A Flexible, Efficient, and Privacy-Preserving IoT-Enabled Architecture for Contact Tracing'
 
 # Authors
 # A YAML list of author names
@@ -15,7 +14,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2021-01-01'
+date: '2021-06-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2023-12-07T07:05:01.148518Z'
@@ -29,9 +28,9 @@ publication_types:
 publication: '*IEEE Communications Magazine*'
 publication_short: ''
 
-doi: ''
+doi: '10.1109/MCOM.001.2000729'
 
-abstract: ''
+abstract: 'Contact tracing promises to help fight the spread of COVID-19 via an early detection of possible contagion events. To this end, most existing solutions share the following architecture: smartphones continuously broadcast random beacons that are intercepted by nearby devices and stored into their local contact logs. In this article, we propose an IoT-enabled architecture for contact tracing that relaxes the smartphone-centric assumption, and provides a solution that enjoys the following features: it reduces the overhead on the end user to the bare minimum - the mobile device only broadcasts its beacons; it provides the user with a degree of privacy not achieved by competing solutions - even in the most privacy adverse scenario, the solution provides k-anonymity; and it is flexible: the same architecture can be configured to support several models - ranging from fully decentralized to fully centralized ones - and the system parameters can be tuned to support the tracing of several social interaction models. What is more, our proposal can also be adopted to tackle future human-proximity transmissible diseases. Finally, we also highlight open issues and discuss a number of future research directions at the intersection of IoT and contact tracing.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -42,7 +41,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9475175'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -70,5 +69,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

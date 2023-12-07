@@ -1,6 +1,5 @@
 ---
-title: 'Auth-AIS: secure, flexible, and backward-compatible authentication of vessels
-  AIS broadcasts'
+title: 'Auth-AIS: Secure, Flexible, and Backward-Compatible Authentication of Vessels AIS Broadcasts'
 
 # Authors
 # A YAML list of author names
@@ -16,7 +15,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2021-01-01'
+date: '2021-03-30'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2023-12-07T07:05:01.167009Z'
@@ -30,9 +29,9 @@ publication_types:
 publication: '*IEEE Transactions on Dependable and Secure Computing*'
 publication_short: ''
 
-doi: ''
+doi: '10.1109/TDSC.2021.3069428'
 
-abstract: ''
+abstract: 'Automatic Identification System (AIS) is the de-facto communication standard used by vessels to broadcast identification and position information. However, being AIS communications neither encrypted nor authenticated, they can be eavesdropped and spoofed by adversaries, leading to potentially threatening scenarios. Existing solutions, including the ones conceived in the avionics domain, do not consider integration with the AIS standard, and they do not provide protection against rogue messages flooding. In this article, we propose Auth-AIS, a secure, flexible, standard-compliant, and backward-compatible authentication framework to secure AIS broadcast messages. Auth-AIS leverages existing sound cryptographic tools, including TESLA and Bloom Filters, inheriting their security properties while contextualizing them in the AIS technology. Auth-AIS is a software-only solution, that can be seamlessly integrated into existing AIS deployments, without requiring any hardware replacement. Its innovative design also provides backward-compatibility—i.e., Auth-AIS messages can be received also by AIS users not adopting Auth-AIS, while renouncing at its security guarantees. Auth-AIS can work in either two configuration modes: Deterministic Security Configuration, able to achieve low-delay authentication with a message overhead of 75 percent, or Probabilistic Security Configuration, reducing the message overhead down to 35.71 percent, while experiencing a marginal increase in the authentication delay. All these security configurations guarantee an 80 bits equivalent security level and false-positive rate less than 2 --40 . Note that these latter security parameters can easily be tuned to fit different security requirements. Finally, the source code of Auth-AIS in the GNURadio ecosystem has been released as open-source, to foster research activities from both Industry and Academia on secure AIS communications.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -43,8 +42,8 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9390297'
+url_code: 'https://github.com/pietrotedeschi/Auth-AIS'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -71,5 +70,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

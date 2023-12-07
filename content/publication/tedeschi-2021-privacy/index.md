@@ -1,6 +1,5 @@
 ---
-title: Privacy-preserving and sustainable contact tracing using batteryless bluetooth
-  low-energy beacons
+title: Privacy-Preserving and Sustainable Contact Tracing Using Batteryless Bluetooth Low-Energy Beacons
 
 # Authors
 # A YAML list of author names
@@ -18,7 +17,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2021-01-01'
+date: '2021-10-19'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2023-12-07T07:05:01.178495Z'
@@ -32,9 +31,9 @@ publication_types:
 publication: '*IEEE Security & Privacy*'
 publication_short: ''
 
-doi: ''
+doi: '10.1109/MSEC.2021.3115497'
 
-abstract: ''
+abstract: 'Contact tracing is the technology choice of reference to address the COVID-19 pandemic. Many of the current approaches have severe privacy and security issues and fail to offer a sustainable contact tracing infrastructure. We address these issues introducing an innovative, privacy-preserving, sustainable, and experimentally tested architecture that leverages batteryless Bluetooth low-energy beacons.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -45,7 +44,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9580500'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -73,5 +72,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
