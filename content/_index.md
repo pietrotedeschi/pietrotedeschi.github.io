@@ -123,7 +123,7 @@ sections:
           organization: Hamad Bin Khalifa University
           organization_url: https://www.hbku.edu.qa/en
           title: Ph.D Thesis
-          url: 'https://search.proquest.com/openview/053c6a789f9d658dcb1113734e8cd2c3/1?pq-origsite=gscholar&cbl=2026366&diss=y'
+          url: '#'
         - certificate_url: ''
           date_end: '2020-11-01'
           date_start: '2019-11-01'
