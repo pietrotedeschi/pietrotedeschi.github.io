@@ -116,14 +116,14 @@ sections:
           organization_url: https://www.tii.ae/
           title: Senior Security Researcher at TII
           url: 'https://www.tii.ae/'
-      - certificate_url: ''
-          date_end: '2021-12-31'
-          date_start: '2018-09-01'
-          description: 'I completed my Ph.D. with a thesis: Security and Privacy Issues in Internet of Skies: Advanced Solutions for Drones and UAVs for Critical Infrastructures Protection.'
-          organization: Hamad Bin Khalifa University
-          organization_url: https://www.hbku.edu.qa/en
-          title: Ph.D Thesis
-          url: 'https://search.proquest.com/openview/053c6a789f9d658dcb1113734e8cd2c3/1?pq-origsite=gscholar&cbl=2026366&diss=y'
+      # - certificate_url: ''
+      #     date_end: '2021-12-31'
+      #     date_start: '2018-09-01'
+      #     description: 'I completed my Ph.D. with a thesis: Security and Privacy Issues in Internet of Skies: Advanced Solutions for Drones and UAVs for Critical Infrastructures Protection.'
+      #     organization: Hamad Bin Khalifa University
+      #     organization_url: https://www.hbku.edu.qa/en
+      #     title: Ph.D Thesis
+      #     url: 'https://search.proquest.com/openview/053c6a789f9d658dcb1113734e8cd2c3/1?pq-origsite=gscholar&cbl=2026366&diss=y'
         - certificate_url: ''
           date_end: '2020-11-01'
           date_start: '2019-11-01'
