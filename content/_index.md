@@ -94,7 +94,7 @@ sections:
           description: Design and Development of Security Protocols and Architectures for the [EU Horizon 2020 SymbIoTe](https://www.symbiote-h2020.eu/) Project.
     design:
       columns: '2'
-  - block: collection
+  - block: markdown
     id: latestnews
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
