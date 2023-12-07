@@ -212,7 +212,6 @@ sections:
   - block: collection
     content:
       title: Publications
-      author: Pietro Tedeschi
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
