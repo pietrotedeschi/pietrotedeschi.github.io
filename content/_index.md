@@ -132,8 +132,8 @@ sections:
           date_end: '2022-01-01'
           date_start: '2021-01-01'
           description: 'A project grant with Hamad Bin Khalifa University. Leveraging a squads of drones (DroNet) to provide monitoring support for critical scenarios in border and port security applications.'
-          icon: building-columns
-          icon_pack: fas
+          - icon: building-columns
+              icon_pack: fas
           organization: The North Atlantic Treaty Organization Science for Peace and Security
           organization_url: https://www.nato.int/cps/en/natohq/78209.htm
           title: NATO SeaSec - DroNets for Maritime Border and Port Security
