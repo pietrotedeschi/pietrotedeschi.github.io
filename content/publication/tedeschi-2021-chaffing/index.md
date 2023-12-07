@@ -1,5 +1,5 @@
 ---
-title: Chaffing and Winnowing
+title: 'Chaffing and Winnowing'
 
 # Authors
 # A YAML list of author names
