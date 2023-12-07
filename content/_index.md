@@ -308,10 +308,10 @@ sections:
     content:
       title: Academic Services
       text: |-
-        Prova Prova Prova.
-    design:
-      columns: '2'
-      view: citation
+        * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
   # - block: collection
   #   id: talks
   #   content:
