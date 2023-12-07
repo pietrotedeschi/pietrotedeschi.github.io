@@ -109,20 +109,13 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: ''
-          date_end: '2020-11-01'
-          date_start: '2019-11-01'
-          description: 'Grant of 50.000 QAR to research and develop a system to detect drones via the analysis of encrypted network traffic.'
-          organization: Hamad Bin Khalifa University
+          date_end: ''
+          date_start: '2022-01-10'
+          description: 'I got hired as Senior Security Researcher at Technology Innovation Institute (TII), Abu Dhabi, United Arab Emirates.'
+          organization: Technology Innovation Institute
           organization_url: https://www.hbku.edu.qa/en
-          title: XXX
-          url: 'https://innovation.hbku.edu.qa/project/DDNTA'        # - certificate_url: ''
-        #     date_end: ''
-        #     date_start: '2022-01-10'
-        #     description: 'I got hired as Senior Security Researcher at Technology Innovation Institute (TII), Abu Dhabi, United Arab Emirates.'
-        #     organization: Technology Innovation Institute
-        #     organization_url: https://www.tii.ae/
-        #     title: Senior Security Researcher at TII
-        #     url: 'https://www.tii.ae/'
+          title: Senior Security Researcher at TII
+          url: 'https://www.tii.ae/'
       # - certificate_url: ''
       #     date_end: '2021-12-31'
       #     date_start: '2018-09-01'
