@@ -126,9 +126,11 @@ highlight_name: true
 
 I am currently a Senior Security Researcher at [Technology Innovation Institute](https://www.tii.ae/), ex Security Researcher at [Consorzio Nazionale Interuniversitario per le Telecomunicazioni](https://www.cnit.it/en/).
 
-During my Bachelor's Thesis, advised by [Gennaro Boggia](https://scholar.google.it/citations?user=uKhe8rkAAAAJ&hl=en&oi=ao), I came up with a lightweight key agreement protocol for constrained IoT devices in IEEE 802.15.4e networks by adopting the Elliptic Curve Diffie Hellman (ECDH) protocol and the implicit certificates ECQV.
+During my Bachelor's Thesis, advised by [Prof. Gennaro Boggia](https://scholar.google.it/citations?user=uKhe8rkAAAAJ&hl=en&oi=ao), I came up with a lightweight key agreement protocol for constrained IoT devices in IEEE 802.15.4e networks by adopting the Elliptic Curve Diffie Hellman protocol and the implicit certificates ECQV.
 
-During my Master's thesis, advised by [Luigi Alfredo Grieco](https://scholar.google.it/citations?user=HmBQd8IAAAAJ&hl=en&oi=ao), I designed and implemented a security framework for Intelligent Transport Systems (ITS) in Horizon 2020 BONVOYAGE project by leveraging the Attribute Based Encryption.
+During my Master's thesis, advised by [Prof. Luigi Alfredo Grieco](https://scholar.google.it/citations?user=HmBQd8IAAAAJ&hl=en&oi=ao), I designed and implemented a security framework for Intelligent Transport Systems in Horizon 2020 BONVOYAGE project by leveraging the Attribute Based Encryption.
 
-My Ph.D., advised by [Roberto Di Pietro](https://scholar.google.it/citations?user=Io9QeG0AAAAJ&hl=en&oi=ao), allowed me to design and developing of (i) a dead-reckoning system that leverages the jamming signal to estimate the UAV position; (ii) a privacy-preserving, distributed, and lightweight solution for co-location detection and collision avoidance of autonomous UAVs, and (iii) an anonymous remote identification system for UAVs to allow them to broadcast RemoteID-compliant messages using ephemeral pseudonyms.
+My Ph.D., advised by [Prof. Roberto Di Pietro](https://scholar.google.it/citations?user=Io9QeG0AAAAJ&hl=en&oi=ao), allowed me to design and developing of (i) a dead-reckoning system that leverages the jamming signal to estimate the UAV position; (ii) a privacy-preserving, distributed, and lightweight solution for co-location detection and collision avoidance of autonomous UAVs, and (iii) an anonymous remote identification system for UAVs to allow them to broadcast RemoteID-compliant messages using ephemeral pseudonyms.
+
+My research journey allowed me to publish, XX journal papers, XX conference papers, 1 contribution for the Encyclopedia of Cryptography, Security and Privacy, and XX patents.
 {style="text-align: justify;"}
