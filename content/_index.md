@@ -312,6 +312,8 @@ sections:
               * Nested bullet
                   * Sub-nested bullet etc
           * Bullet list item 2
+    design:
+      columns: '2'
   # - block: collection
   #   id: talks
   #   content:
