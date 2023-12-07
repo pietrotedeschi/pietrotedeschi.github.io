@@ -311,11 +311,14 @@ sections:
         * #### Invited Speaker ####
           * ITASEC '23: Security and Privacy Issues in the Age of Drones
           * Apulia CyberSecurity Forum 2022
-        * Journal Editor
+
+        * #### Journal Editor ####
           * Guest Associate Editor in Security, Privacy and Authentication. Frontiers in Communications and Networks Security, Privacy and Authentication - Security and Privacy for Underwater, Aerial and Ground Vehicles
-        * General Chair
+        
+        * #### General Chair ####
           * 1st Workshop on Security and Privacy of Mobile IoT (SP-MIoT) in conj. with ESORICS 2022
-        * Technical (Program) Committee
+        
+        * #### Technical (Program) Committee ####
           * 6th International Workshop on Wireless Sensors and Drones in Internet of Things 2024 (Wi-DroIT 2024, co-located with DCOSS 2024)
           * IEEE Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT) 2024
           * Annual Computer Security Applications Conference Artifacts Evaluation (ACSAC AE) 2023
@@ -328,7 +331,8 @@ sections:
           * SECRYPT 2022
           * ICT for Rural Development (IC-ICTRuDev) 2021
           * Wireless Days 2021 - 12th Wireless Days Conference
-        * Reviewer
+
+        * #### Reviewer ####
           * IEEE International Conference on Computer Communications (INFOCOM) 2024
           * IEEE Wireless Communications and Networking Conference (WCNC) 2024
           * Annual Computer Security Applications Conference (ACSAC) 2023
@@ -355,6 +359,7 @@ sections:
           * Journal of Computer Security
           * IET Information Security
           * Security and Communication Networks
+          
         * Mentor for more than 20 Master and Bachelor students worldwide.
     design:
       columns: '2'
