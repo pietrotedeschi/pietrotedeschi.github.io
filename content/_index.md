@@ -308,8 +308,54 @@ sections:
     content:
       title: Academic Services
       text: |-
-        * Bullet list
-          * Bullet list item 2
+        * Invited Speaker
+          * ITASEC '23: Security and Privacy Issues in the Age of Drones
+          * Apulia CyberSecurity Forum 2022
+        * Journal Editor
+          * Guest Associate Editor in Security, Privacy and Authentication. Frontiers in Communications and Networks Security, Privacy and Authentication - Security and Privacy for Underwater, Aerial and Ground Vehicles
+        * General Chair
+          * 1st Workshop on Security and Privacy of Mobile IoT (SP-MIoT) in conj. with ESORICS 2022
+        * Technical (Program) Committee
+          * 6th International Workshop on Wireless Sensors and Drones in Internet of Things 2024 (Wi-DroIT 2024, co-located with DCOSS 2024)
+          * IEEE Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT) 2024
+          * Annual Computer Security Applications Conference Artifacts Evaluation (ACSAC AE) 2023
+          * European Symposium on Research in Computer Security (ESORICS) 2023
+          * IEEE GlobeCom 2023 Workshop - CelUAVSatCom
+          * 2nd Workshop on Security and Privacy in Connected Embedded Systems (SPICES) in conj. with EWSN 2023
+          * 5th International Workshop on Wireless Sensors and Drones in Internet of Things 2023 (Wi-DroIT 2023)
+          * International Conference on Mobility, Sensing and Networking (MSN 2022)
+          * Unconventional Security for Wireless Communications (USWC) in conj. with EWSN 22
+          * SECRYPT 2022
+          * ICT for Rural Development (IC-ICTRuDev) 2021
+          * Wireless Days 2021 - 12th Wireless Days Conference
+        * Reviewer
+          * IEEE International Conference on Computer Communications (INFOCOM) 2024
+          * IEEE Wireless Communications and Networking Conference (WCNC) 2024
+          * Annual Computer Security Applications Conference (ACSAC) 2023
+          * European Symposium on Research in Computer Security (ESORICS) 2023
+          * IEEE Transactions on Dependable and Secure Computing
+          * IEEE Transactions on Mobile Computing
+          * IEEE Transactions on Wireless Communications
+          * IEEE Transactions on Aerospace and Electronic Systems
+          * IEEE Communications Magazine
+          * IEEE Internet of Things Journal
+          * IEEE Access
+          * IEEE International Conference on Intelligent Robots and Systems (IROS)
+          * IEEE International Conference on Computer Communication (INFOCOM)
+          * IEEE International Conference on Communications (ICC)
+          * ACM Conference on Security and Privacy in Wireless and Mobile Networks (WISEC)
+          * European Symposium on Research in Computer Security (ESORICS) 2022
+          * Transactions on Emerging Telecommunications Technologies
+          * Elsevier Computer Communications (COMCOM)
+          * Elsevier Computer Networks (COMNET)
+          * Elsevier Pervasive and Mobile Computing
+          * Elsevier Vehicular Communications
+          * Pervasive and Mobile Computing
+          * International Journal of Information Security
+          * Journal of Computer Security
+          * IET Information Security
+          * Security and Communication Networks
+        * Mentor for more than 20 Master and Bachelor students worldwide.
     design:
       columns: '2'
   # - block: collection
