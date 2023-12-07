@@ -41,13 +41,13 @@ sections:
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: pietro-tedeschi
   - block: skills
     content:
       title: Skills
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
+      username: pietro-tedeschi
     design:
       columns: '1'
   - block: experience
