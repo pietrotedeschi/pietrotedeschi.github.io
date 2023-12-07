@@ -6,9 +6,9 @@ title: 'Federated learning for reliable model updates in network-based intrusion
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Roger R. dos Santos
-- Eduardo K. Viegas
-- Altair O. Santin
+- Roger R dos Santos
+- Eduardo K Viegas
+- Altair O Santin
 - Pietro Tedeschi
 
 # Author notes (such as 'Equal Contribution')
