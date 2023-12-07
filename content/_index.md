@@ -109,32 +109,35 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: ''
-          date_end: ''
+          date_end: '2020-11-01'
           date_start: '2019-11-01'
           description: 'Grant of 50.000 QAR'
           icon: building-columns
+          icon_pack: fab
           organization: Hamad Bin Khalifa University
           organization_url: https://www.hbku.edu.qa/en
           title: Catching Drones! Detecting Drones via Network Traffic Analysis
           url: 'https://innovation.hbku.edu.qa/project/DDNTA'
         - certificate_url: ''
-          date_end: ''
+          date_end: '2020-11-01'
           date_start: '2019-11-01'
           description: 'Grant of 50.000 QAR'
           icon: building-columns
+          icon_pack: fab
           organization: Hamad Bin Khalifa University
           organization_url: https://www.hbku.edu.qa/en
           title: GPS Spoofing detection exploiting crowd-sourced information
           url: 'https://innovation.hbku.edu.qa/project/GPSSD'
-        - certificate_url: https://www.edx.org
-          date_end: ''
+        - certificate_url: ''
+          date_end: '2022-01-01'
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          description: TBD
+          icon: building-columns
+          icon_pack: fab
+          organization: The North Atlantic Treaty Organization Science for Peace and Security
+          organization_url: https://www.nato.int/cps/en/natohq/78209.htm
+          title: NATO SeaSec - DroNets for Maritime Border and Port Security
+          url: https://sea-sec.github.io/
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
