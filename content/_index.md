@@ -303,14 +303,12 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
+  - block: markdown
     id: academicservices
     content:
       title: Academic Services
       text: |-
         * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
           * Bullet list item 2
     design:
       columns: '2'
