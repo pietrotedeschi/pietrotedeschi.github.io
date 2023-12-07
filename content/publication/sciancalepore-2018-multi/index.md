@@ -30,9 +30,9 @@ publication_types:
 publication: '*EWSN*'
 publication_short: ''
 
-doi: 'https://dl.acm.org/doi/abs/10.5555/3234847.3234915'
+doi: ''
 
-abstract: ''
+abstract: 'Current activities in the Internet of Things research area are devoting many efforts to the definition of architectures and mechanisms supporting the federation of heterogeneous platforms. In this context, the Multi-Domain Access Rights Composition is emerging as a promising paradigm, enabling the sharing of resources across organizations and boundaries. From the security perspective, the protection of resources against unauthorized accesses becomes even more difficult to accomplish. The work presented herein aims at solve the access control issue through a novel solution based on the Attribute Based Access Control logic. Specifically, the conceived approach leverages the Decentralized Multi-Authority - Ciphertext-Policy - Attribute Based Encryption algorithm, in a way that is completely different with respect to its conventional usage. The resulting protocol offers, at the same time, the following requirements: peer authentication, data confidentiality between communicating peers, advanced access control mechanism based cryptographic algorithms, user privacy, adoption of attributes with limited lifetime, revocation of attributes, and resilience against collusion attack.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -43,7 +43,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/abs/10.5555/3234847.3234915'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -71,5 +71,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
