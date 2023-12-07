@@ -16,7 +16,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2018-01-01'
+date: '2018-02-12'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2023-12-07T07:05:01.085709Z'
@@ -30,7 +30,7 @@ publication_types:
 publication: '*EWSN*'
 publication_short: ''
 
-doi: ''
+doi: 'https://dl.acm.org/doi/abs/10.5555/3234847.3234915'
 
 abstract: ''
 
