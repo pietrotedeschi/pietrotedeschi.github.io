@@ -359,8 +359,8 @@ sections:
           * Journal of Computer Security
           * IET Information Security
           * Security and Communication Networks
-          
-        * Mentor for more than 20 Master and Bachelor students worldwide.
+
+        * #### Mentor for more than 20 Master and Bachelor students worldwide ####
     design:
       columns: '2'
   # - block: collection
