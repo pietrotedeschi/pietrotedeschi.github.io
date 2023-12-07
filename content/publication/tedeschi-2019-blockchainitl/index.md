@@ -1,38 +1,40 @@
 ---
-title: Multi-Domain Access Rights Composition in Federated IoT Platforms
+title: 'Blockchain as a service: Securing bartering functionalities in the H2020 symbIoTe framework'
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Savio Sciancalepore
-- Giuseppe Piro
 - Pietro Tedeschi
+- Giuseppe Piro
+- Jose Antonio Sanchez Murillo
+- Nemanja Ignjatov
+- Michał Pilc
+- Kaspar Lebloch
 - Gennaro Boggia
-- Giuseppe Bianchi
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2018-02-12'
+date: '2019-01-10'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-12-07T07:05:01.085709Z'
+publishDate: '2023-12-07T07:05:01.109945Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- paper-conference
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*EWSN*'
+publication: '*Wiley Internet Technology Letters*'
 publication_short: ''
 
-doi: ''
+doi: '10.1002/itl2.72'
 
-abstract: 'Current activities in the Internet of Things research area are devoting many efforts to the definition of architectures and mechanisms supporting the federation of heterogeneous platforms. In this context, the Multi-Domain Access Rights Composition is emerging as a promising paradigm, enabling the sharing of resources across organizations and boundaries. From the security perspective, the protection of resources against unauthorized accesses becomes even more difficult to accomplish. The work presented herein aims at solve the access control issue through a novel solution based on the Attribute Based Access Control logic. Specifically, the conceived approach leverages the Decentralized Multi-Authority - Ciphertext-Policy - Attribute Based Encryption algorithm, in a way that is completely different with respect to its conventional usage. The resulting protocol offers, at the same time, the following requirements: peer authentication, data confidentiality between communicating peers, advanced access control mechanism based cryptographic algorithms, user privacy, adoption of attributes with limited lifetime, revocation of attributes, and resilience against collusion attack.'
+abstract: 'Blockchain is emerging as a promising technology that is able to support transparent, secure, and immutable transactions traceability in decentralized networks. Its usage in many application domains, including the Internet of Things, is gaining the attention of even more researchers and industries worldwide. In line with current research interests, the work presented in this letter has been carried out in the context of the European H2020 symbIoTe project. Among its main features, the symbIoTe framework offers bartering functionalities across a federation of Internet of Things platforms. This letter extends the baseline implementation of bartering functionalities and formulates a novel methodology that properly integrates and takes advantages from the Blockchain technology. Even if the proposed approach is general, the main facets characterizing the conceived approach are illustrated through a fictional use case envisaging the provisioning of Intelligent Transportation System and air pollution services in a Smart City.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -43,7 +45,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: 'http://www.ewsn.org/file-repository/ewsn-2018/290_295_sciancalepore.pdf'
+url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1002/itl2.72'
 url_code: ''
 url_dataset: ''
 url_poster: ''
