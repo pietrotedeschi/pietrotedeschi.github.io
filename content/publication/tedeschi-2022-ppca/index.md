@@ -58,7 +58,7 @@ url_video: 'https://www.youtube.com/watch?v=2LW_ZFk6ZS0'
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
-  caption: ''
+  caption: 'Privacy-Preserving Collision Avoidance for Autonomous Unmanned Aerial Vehicles'
   focal_point: ''
   preview_only: false
 
