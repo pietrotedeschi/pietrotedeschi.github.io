@@ -47,7 +47,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://cri-lab.net/wp-content/uploads/2020/12/code.zip'
 url_video: 'https://www.youtube.com/watch?v=2LW_ZFk6ZS0'
 
 # Custom links (uncomment lines below)
