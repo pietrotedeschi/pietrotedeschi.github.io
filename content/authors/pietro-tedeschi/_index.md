@@ -57,29 +57,39 @@ skills:
         percent: 100
         icon: magnifying-glass
         icon_pack: fas
+      - name: Cybersecurity and Network Security
+        description: ''
+        percent: 100
+        icon: key
+        icon_pack: fas
       - name: Programming
         description: ''
-        percent: 80
+        percent: 90
         icon: terminal
         icon_pack: fas
       - name: Project Management
         description: ''
-        percent: 90
+        percent: 85
         icon: list-check
         icon_pack: fas
   - name: Soft
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Leadership
-        description: ''
-        percent: 95
-        icon: flag
-        icon_pack: fas
       - name: Problem Solving
         description: ''
         percent: 100
         icon: check-double
+        icon_pack: fas
+      - name: Critical Thinking
+        description: ''
+        percent: 95
+        icon: lightbulb
+        icon_pack: fas
+      - name: Leadership
+        description: ''
+        percent: 95
+        icon: flag
         icon_pack: fas
       - name: Teamwork
         description: ''
