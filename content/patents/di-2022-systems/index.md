@@ -29,7 +29,7 @@ publication_short: ''
 
 doi: ''
 
-abstract: 'Systems and methods for determining the position of a device or vehicle by using celestial information captured by an imaging apparatus. The systems and methods identify a star set in the celestial information, generate a star set fingerprint and compare the star set fingerprint with reference celestial information. Once a comparison is made, the location of the device or vehicle can be determined and used within a celestial navigation system.'
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -69,3 +69,4 @@ image:
 projects: []
 ---
 
+Systems and methods for determining the position of a device or vehicle by using celestial information captured by an imaging apparatus. The systems and methods identify a star set in the celestial information, generate a star set fingerprint and compare the star set fingerprint with reference celestial information. Once a comparison is made, the location of the device or vehicle can be determined and used within a celestial navigation system.
