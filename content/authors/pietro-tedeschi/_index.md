@@ -132,5 +132,5 @@ During my Master's thesis, advised by [Prof. Luigi Alfredo Grieco](https://schol
 
 My Ph.D., advised by [Prof. Roberto Di Pietro](https://scholar.google.it/citations?user=Io9QeG0AAAAJ&hl=en&oi=ao), allowed me to design and developing of (i) a dead-reckoning system that leverages the jamming signal to estimate the UAV position; (ii) a privacy-preserving, distributed, and lightweight solution for co-location detection and collision avoidance of autonomous UAVs, and (iii) an anonymous remote identification system for UAVs to allow them to broadcast RemoteID-compliant messages using ephemeral pseudonyms.
 
-My research journey allowed me to publish, 20 journal papers, 11 conference papers, 1 contribution for the Encyclopedia of Cryptography, Security and Privacy, and 3 patents.
+My research journey allowed me to publish, 20 journal papers, 11 conference papers, 1 contribution for the Encyclopedia of Cryptography, Security and Privacy, 11 proof-of-concepts, and 3 patents.
 {style="text-align: justify;"}
