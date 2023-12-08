@@ -30,7 +30,7 @@ publication_short: ''
 
 doi: ''
 
-abstract: 'The presently disclosed method and system exploits a received signal strength of a jamming signal emitted by a jammer to allow navigation of an object through an area containing the jamming signal. In one embodiment, the method comprises receiving a plurality of navigation data and a jamming signal when entering a jamming zone. The method then comprises repeatedly measuring the strength of the jamming signal while moving within the jamming zone. The method then comprises determining the location of the jammer based on the movement within the jamming zone and the strength of the jamming signal at multiple coordinates. The method further comprises performing movement to destination coordinates within the jamming zone at least partially based on the jammer location and the strength of the jamming signal.'
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -70,4 +70,4 @@ image:
 projects: []
 ---
 
-
+The presently disclosed method and system exploits a received signal strength of a jamming signal emitted by a jammer to allow navigation of an object through an area containing the jamming signal. In one embodiment, the method comprises receiving a plurality of navigation data and a jamming signal when entering a jamming zone. The method then comprises repeatedly measuring the strength of the jamming signal while moving within the jamming zone. The method then comprises determining the location of the jammer based on the movement within the jamming zone and the strength of the jamming signal at multiple coordinates. The method further comprises performing movement to destination coordinates within the jamming zone at least partially based on the jammer location and the strength of the jamming signal.

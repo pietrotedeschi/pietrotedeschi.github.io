@@ -31,7 +31,7 @@ publication_short: ''
 
 doi: ''
 
-abstract: 'A spoofing detection device is provided. The spoofing detection device includes an antenna configured to receive a signal from wireless communication; a processor configured to extract at least one feature of the received signal; a storage configured to store a local signal feature; a detection circuit configured to compare the extracted feature from the received signal and the local signal feature. The detection circuit is configured to decide if the signal is a spoofed signal based on a result of comparison between the extracted feature from the received signal and the local signal feature.'
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -71,3 +71,4 @@ image:
 projects: []
 ---
 
+A spoofing detection device is provided. The spoofing detection device includes an antenna configured to receive a signal from wireless communication; a processor configured to extract at least one feature of the received signal; a storage configured to store a local signal feature; a detection circuit configured to compare the extracted feature from the received signal and the local signal feature. The detection circuit is configured to decide if the signal is a spoofed signal based on a result of comparison between the extracted feature from the received signal and the local signal feature.
