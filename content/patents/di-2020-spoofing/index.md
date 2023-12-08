@@ -26,7 +26,7 @@ publication_types:
 - manuscript
 
 # Publication name and optional abbreviated publication name.
-publication: ''
+publication: '*Google Patents*'
 publication_short: ''
 
 doi: ''
