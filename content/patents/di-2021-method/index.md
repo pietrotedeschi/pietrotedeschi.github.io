@@ -14,7 +14,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2021-10-01'
+date: '2021-10-19'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2023-12-07T07:05:01.186266Z'
@@ -30,7 +30,7 @@ publication_short: ''
 
 doi: ''
 
-abstract: ''
+abstract: 'The presently disclosed method and system exploits a received signal strength of a jamming signal emitted by a jammer to allow navigation of an object through an area containing the jamming signal. In one embodiment, the method comprises receiving a plurality of navigation data and a jamming signal when entering a jamming zone. The method then comprises repeatedly measuring the strength of the jamming signal while moving within the jamming zone. The method then comprises determining the location of the jammer based on the movement within the jamming zone and the strength of the jamming signal at multiple coordinates. The method further comprises performing movement to destination coordinates within the jamming zone at least partially based on the jammer location and the strength of the jamming signal.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -41,7 +41,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://patents.google.com/patent/US11150671B2/en'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -70,4 +70,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

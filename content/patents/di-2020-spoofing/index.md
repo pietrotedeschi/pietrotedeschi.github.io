@@ -1,5 +1,5 @@
 ---
-title: Spoofing Detection Device and a Spoofing Detection Method
+title: Spoofing detection device and a spoofing detection method
 
 # Authors
 # A YAML list of author names
@@ -15,7 +15,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2020-10-01'
+date: '2020-10-15'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2023-12-07T07:05:01.159529Z'
@@ -31,7 +31,7 @@ publication_short: ''
 
 doi: ''
 
-abstract: ''
+abstract: 'A spoofing detection device is provided. The spoofing detection device includes an antenna configured to receive a signal from wireless communication; a processor configured to extract at least one feature of the received signal; a storage configured to store a local signal feature; a detection circuit configured to compare the extracted feature from the received signal and the local signal feature. The detection circuit is configured to decide if the signal is a spoofed signal based on a result of comparison between the extracted feature from the received signal and the local signal feature.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -42,7 +42,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://patents.google.com/patent/US20200329378A1/en'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -71,4 +71,3 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

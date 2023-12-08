@@ -13,7 +13,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2022-06-01'
+date: '2022-06-28'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2023-12-07T07:05:01.155931Z'
@@ -29,7 +29,7 @@ publication_short: ''
 
 doi: ''
 
-abstract: ''
+abstract: 'Systems and methods for determining the position of a device or vehicle by using celestial information captured by an imaging apparatus. The systems and methods identify a star set in the celestial information, generate a star set fingerprint and compare the star set fingerprint with reference celestial information. Once a comparison is made, the location of the device or vehicle can be determined and used within a celestial navigation system.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -40,7 +40,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://patents.google.com/patent/US11371846B2/en'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -69,4 +69,3 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
