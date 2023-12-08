@@ -60,7 +60,7 @@ url_video: 'https://www.youtube.com/watch?v=2LW_ZFk6ZS0'
 image:
   caption: 'Privacy-Preserving Collision Avoidance for Autonomous Unmanned Aerial Vehicles'
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
