@@ -80,8 +80,6 @@ sections:
         - title: Ph.D 
           company: Hamad Bin Khalifa University
           company_url: 'https://www.hbku.edu.qa/en'
-          icon: magnifying-glass
-          icon_pack: fas
           location: Doha, Qatar
           date_start: '2018-09-01'
           date_end: '2021-12-31'
