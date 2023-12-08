@@ -26,7 +26,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*IEEE Internet of Things Magazine*'
+publication: '*Computers & Security*'
 publication_short: ''
 
 doi: '10.1016/j.cose.2023.103413'
