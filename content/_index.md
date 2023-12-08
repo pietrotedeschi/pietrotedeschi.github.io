@@ -304,6 +304,19 @@ sections:
       columns: '2'
       view: citation
   - block: markdown
+    id: certifications
+    content:
+      title: Licenses and Certifications
+      text: |-
+        * Advanced Remotely Piloted Aircraft System, _Sanad Academy_
+        * Cryptography I, _Coursera_
+        * Introduction to cybersecurity I, _Cisco Networking Academy_
+        * End-User: Social Engineering, _Cybrary_
+        * Cisco CCNA Networking for Home and Small Businesses, _Cisco_
+        * Microsoft IC3 (Internet and Computing Core Certification) - Computing Fundamentals - Key Applications - Living Online - Database Applications, _Microsoft_
+    design:
+      columns: '2'      
+  - block: markdown
     id: academicservices
     content:
       title: Academic Services
