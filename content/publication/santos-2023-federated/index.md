@@ -29,7 +29,7 @@ publication_types:
 publication: '*IEEE Internet of Things Magazine*'
 publication_short: ''
 
-doi: '10.1109/IOTM.001.2300106'
+doi: '10.1016/j.cose.2023.103413'
 
 abstract: 'Over the last years, several works introduced network-based intrusion detection schemes based on machine learning techniques for securing IoT devices. Despite the promising results, proposed approaches are rarely adopted in production environments. Networked environments exhibit highly unpredictable behavior, unlike other areas where machine learning has been effectively adopted. Unfortunately, the changing behavior during the time may lead to higher classification errors than those measured in the test phase. In this study, we demonstrate that the existing machine learning techniques applied for network traffic classification fail when facing the characteristics of real-world environments. The experiments analyzed more than 30 TB of data spanning 10 years of real network traffic and 9 intrusion detection datasets. Besides the analysis, we define a set of guidelines to build reliable application of machine learning for network traffic classification, which may guide future research and ensure the reliability of machine learning model deployment in production environments.'
 
@@ -42,7 +42,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: 'https://ieeexplore.ieee.org/document/10145038'
+url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S0167404823003231'
 url_code: ''
 url_dataset: ''
 url_poster: ''
