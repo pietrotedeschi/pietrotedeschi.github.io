@@ -26,7 +26,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*XXX*'
+publication: '*IEEE Communications Surveys & Tutorials*'
 publication_short: ''
 
 doi: '10.1016/j.cose.2023.103413'
