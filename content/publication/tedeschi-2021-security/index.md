@@ -29,7 +29,7 @@ publication_short: ''
 
 doi: ''
 
-abstract: ''
+abstract: 'Unmanned Aerial Vehicles (UAVs) are widely considered the next breakthrough in the ongoing Industry 4.0 revolution, thanks to their high mobility, on-demand deployment, and versatility in various industrial sectors such as manufacturing, military, transportation, and in general for critical infrastructures. All UAV communications towards a control system are wireless. However, due to the broadcast nature of the wireless channel, such systems are vulnerable to spoofing, jamming, and man in the middle attacks, to cite a few. This dissertation focused on investigating the security and privacy issues in Unmanned Aerial Systems to design a security framework targeted for cyber-critical infrastructures. First, we developed a dead-reckoning system that leverages the jamming signal to estimate the jammer location, which is leveraged as a radio-beacon to compute the relative position of the drone concerning the target. Then, we presented a privacy-preserving, distributed, and lightweight solution for co-location detection and collision avoidance of autonomous UAVs. The protocol is based on broadcast wireless messages that allows multiple UAVs to detect possible collisions for high-speed approaching UAVs without revealing their locations, and to provide escape manoeuvre towards a safe path.Finally, we proposed a solution enabling the anonymous remote identification of UAVs to allow them to broadcast RemoteID-compliant messages using ephemeral pseudonyms that only a Trusted Authority, such as the Federal Avionic Administrator, can link to the long-term identifier of the UAV and its operator. Within these works, we also proposed distinguished solutions by identifying and addressing new security challenges for the future promising research directions.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -40,13 +40,13 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/book/10.5555/AAI28772905'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://www.proquest.com/openview/053c6a789f9d658dcb1113734e8cd2c3/1?pq-origsite=gscholar&cbl=2026366&diss=y'
 url_video: ''
 
 # Custom links (uncomment lines below)
@@ -68,5 +68,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
