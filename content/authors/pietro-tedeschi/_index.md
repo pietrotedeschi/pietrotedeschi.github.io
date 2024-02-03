@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Security Researcher
+role: Head of Cyber Electronic Warfare Research
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Technology Innovation Institute
-    url: https://www.tii.ae/
+  - name: CY4GATE S.p.A
+    url: https://www.cy4gate.com/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Unmanned Aerial Vehicles Security, Maritime Security, Wireless Security, Internet of Things (IoT), Applied Cryptography, Privacy Preserving Systems, and Cyber-Physical Systems Security.
@@ -134,7 +134,9 @@ social:
 highlight_name: true
 ---
 
-I am currently a Senior Security Researcher at [Technology Innovation Institute](https://www.tii.ae/), ex Security Researcher at [Consorzio Nazionale Interuniversitario per le Telecomunicazioni](https://www.cnit.it/en/).
+I am currently Head of Cyber Electronic Warfare Research at [Cy4Gate S.p.A](https://www.cy4gate.com/en/).
+
+Prior to this, I worked as a Senior Security Researcher at [Technology Innovation Institute](https://www.tii.ae/), and as Security Researcher at [Consorzio Nazionale Interuniversitario per le Telecomunicazioni](https://www.cnit.it/en/).
 
 During my Bachelor's thesis, advised by [Prof. Gennaro Boggia](https://scholar.google.it/citations?user=uKhe8rkAAAAJ&hl=en&oi=ao), I came up with a lightweight key agreement protocol for constrained IoT devices in IEEE 802.15.4e networks by adopting the Elliptic Curve Diffie Hellman protocol and the implicit certificates ECQV.
 
@@ -142,5 +144,5 @@ During my Master's thesis, advised by [Prof. Luigi Alfredo Grieco](https://schol
 
 My Ph.D, advised by [Prof. Roberto Di Pietro](https://scholar.google.it/citations?user=Io9QeG0AAAAJ&hl=en&oi=ao), allowed me to design and developing of (i) a dead-reckoning system that leverages the jamming signal to estimate the UAV position; (ii) a privacy-preserving, distributed, and lightweight solution for co-location detection and collision avoidance of autonomous UAVs, and (iii) an anonymous remote identification system for UAVs to allow them to broadcast RemoteID-compliant messages using ephemeral pseudonyms.
 
-My research journey allowed me to publish, 20 journal papers, 11 conference papers, 1 contribution for the Encyclopedia of Cryptography, Security and Privacy, 11 proof-of-concepts, and 3 patents.
+My research journey allowed me to publish, 21 journal papers, 11 conference papers, 1 contribution for the Encyclopedia of Cryptography, Security and Privacy, 12 proof-of-concepts, and 3 patents.
 {style="text-align: justify;"}
