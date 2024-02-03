@@ -63,13 +63,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Head of Cyber Electronic Warfare Research
+          company: CY4GATE S.p.A
+          company_url: 'https://www.cy4gate.com/en/'
+          # company_logo: org-x
+          location: Rome, Italy
+          date_start: '2024-01-15'
+          date_end: ''
+          description: Research and Development.
+          # description: |2-
+          #     Responsibilities include:
+
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
         - title: Senior Security Researcher
           company: Technology Innovation Institute
           company_url: 'https://www.tii.ae/'
           # company_logo: org-x
           location: Abu Dhabi, United Arab Emirates
           date_start: '2022-01-10'
-          date_end: ''
+          date_end: '2024-01-12'
           description: Research and Development of Security and Privacy systems.
           # description: |2-
           #     Responsibilities include:
@@ -110,6 +124,14 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
+          date_start: '2024-01-15'
+          description: 'I got hired as Head of Cyber Electronic Warfare Research at CY4GATE S.p.A, Rome, Italy.'
+          organization: CY4GATE S.p.A
+          organization_url: https://www.cy4gate.com/en/
+          title: Head of Cyber Electronic Warfare Research
+          url: 'https://www.cy4gate.com/en/'
+        - certificate_url: ''
+          date_end: '2024-01-12'
           date_start: '2022-01-10'
           description: 'I got hired as Senior Security Researcher at Technology Innovation Institute (TII), Abu Dhabi, United Arab Emirates.'
           organization: Technology Innovation Institute
