@@ -6,6 +6,10 @@ title: Detection of quality of service degradation on multi-tenant containerized
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
+- Pedro Horchulhack
+- Eduardo K. Viegas
+- Altair O. Santin
+- Felipe Ramos
 - Pietro Tedeschi
 
 # Author notes (such as 'Equal Contribution')
