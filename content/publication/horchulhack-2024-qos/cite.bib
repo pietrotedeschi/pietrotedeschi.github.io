@@ -1,4 +1,4 @@
-@article{horchulhack2024qos,
+@article{HORCHULHACK2024103839,
 title = {Detection of quality of service degradation on multi-tenant containerized services},
 journal = {Journal of Network and Computer Applications},
 volume = {224},
@@ -7,5 +7,7 @@ year = {2024},
 issn = {1084-8045},
 doi = {https://doi.org/10.1016/j.jnca.2024.103839},
 url = {https://www.sciencedirect.com/science/article/pii/S108480452400016X},
-author = {Pedro Horchulhack and Eduardo K. Viegas and Altair O. Santin and Felipe V. Ramos and Pietro Tedeschi}
+author = {Pedro Horchulhack and Eduardo K. Viegas and Altair O. Santin and Felipe V. Ramos and Pietro Tedeschi},
+keywords = {QoS, Container, Docker, Kubernetes, Machine learning, Multi-tenancy},
+abstract = {Computational services are progressively migrating to container-based solutions due to their faster provision time and lower resource allocation overhead. Service providers rely on container multi-tenancy to share their computing infrastructure and pave their way to profit. Yet, the Quality of Service (QoS) impact due to container multi-tenancy on deployed services is still widely overlooked in the literature. This paper proposes a new service provider monitoring model for detecting container multi-tenancy that can lead to QoS degradation, split into two phases. First, we monitor the container resource usage through the container engine and the associated process namespace, thus, keeping container isolation. The main assumption is that the assessment of resource utilization, as measured by the container engine, should be complemented by the concurrent reporting of resource utilization from the container processes. Second, we detect QoS degradation of distributed containerized services through a time-series classification approach coped with a feature reduction technique. The feature reduction selects the prominent performance features from the deployed distributed service, whereas the time-series classifier ensures the evaluation of the deployed service over time, improving the system detection accuracy. Thanks to an extensive experimental assessment considering a containerized distributed Big Data processing platform, we show that container multi-tenancy can affect the processing performance and the QoS of deployed services. In addition, we show that the proposed model can detect QoS degradation at the service provider domain with a true-positive rate up to 90%, a false-positive rate of 8%, and an average F1-Score up to 0.94.}
 }
