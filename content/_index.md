@@ -63,7 +63,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Head of Cyber Electronic Warfare Research
+        - title: Head of Cyber Electromagnetic Warfare Research
           company: CY4GATE S.p.A
           company_url: 'https://www.cy4gate.com/en/'
           # company_logo: org-x
@@ -125,10 +125,10 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2024-01-15'
-          description: 'I got hired as Head of Cyber Electronic Warfare Research at CY4GATE S.p.A, Rome, Italy.'
+          description: 'I got hired as Head of Cyber Electromagnetic Warfare Research at CY4GATE S.p.A, Rome, Italy.'
           organization: CY4GATE S.p.A
           organization_url: https://www.cy4gate.com/en/
-          title: Head of Cyber Electronic Warfare Research
+          title: Head of Cyber Electromagnetic Warfare Research
           url: 'https://www.cy4gate.com/en/'
         - certificate_url: ''
           date_end: '2024-01-12'
