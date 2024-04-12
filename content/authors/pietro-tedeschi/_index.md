@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Head of Cyber Electronic Warfare Research
+role: Head of Cyber Electromagnetic Warfare Research
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -134,7 +134,7 @@ social:
 highlight_name: true
 ---
 
-I am currently Head of Cyber Electronic Warfare Research at [Cy4Gate S.p.A](https://www.cy4gate.com/en/).
+I am currently Head of Cyber Electromagnetic Warfare Research at [Cy4Gate S.p.A](https://www.cy4gate.com/en/).
 
 Prior to this, I worked as a Senior Security Researcher at [Technology Innovation Institute](https://www.tii.ae/), and as Security Researcher at [Consorzio Nazionale Interuniversitario per le Telecomunicazioni](https://www.cnit.it/en/).
 
