@@ -355,8 +355,9 @@ sections:
         
         * #### Technical (Program) Committee ####
           * IEEE Journal on Selected Areas in Communications (JSAC) - Special Issue on Zero Trust for Next-Generation Networking 2024
+          * 18th International Conference on Network and System Security (NSS)
           * EAI SecureComm 2024
-          * 3rd Workshop on Security and Privacy in Connected Embedded Systems (SPICES 2024)
+          * 3rd Workshop on Security and Privacy in Connected Embedded Systems (SPICES 2024) Co-located with EWSN 2024
           * 6th International Workshop on Wireless Sensors and Drones in Internet of Things 2024 (Wi-DroIT 2024, co-located with DCOSS 2024)
           * IEEE Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT) 2024
           * Annual Computer Security Applications Conference Artifacts Evaluation (ACSAC AE) 2023
