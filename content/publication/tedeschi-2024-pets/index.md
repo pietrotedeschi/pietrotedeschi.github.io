@@ -58,9 +58,9 @@ url_video: ''
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
-  caption: 'Selective Authenticated Pilot Location Disclosure for Remote ID-enabled Drones'
+  caption: ''
   focal_point: ''
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
