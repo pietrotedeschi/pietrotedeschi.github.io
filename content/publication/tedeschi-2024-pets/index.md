@@ -1,5 +1,5 @@
 ---
-title: 'Lightweight Privacy-Preserving Proximity Discovery for Remotely-Controlled Drones'
+title: 'Selective Authenticated Pilot Location Disclosure for Remote ID-enabled Drones'
 
 # Authors
 # A YAML list of author names
