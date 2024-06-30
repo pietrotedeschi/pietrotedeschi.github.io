@@ -1,5 +1,5 @@
 ---
-title: Selective Authenticated Pilot Location Disclosure for Remote ID-enabled Drones
+title: 'Selective Authenticated Pilot Location Disclosure for Remote ID-enabled Drones'
 
 # Authors
 # A YAML list of author names
@@ -22,7 +22,7 @@ publishDate: '2024-07-15T07:05:01.235747Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- paper-conference
+- article-journal
 
 # Publication name and optional abbreviated publication name.
 publication: '*PETS 24 - The 24th Privacy Enhancing Technologies Symposium*'
