@@ -1,5 +1,5 @@
 ---
-title: 'Selective Authenticated Pilot Location Disclosure for Remote ID-enabled Drones'
+title: Prova prova prova
 
 # Authors
 # A YAML list of author names
@@ -17,7 +17,7 @@ author_notes: []
 date: '2024-07-15'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-07-15T07:05:01.235747Z'
+publishDate: '2024-07-15T07:05:01.213124Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -25,12 +25,12 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*PETS 24 - The 24th Privacy Enhancing Technologies Symposium*'
+publication: '*XXX*'
 publication_short: ''
 
 doi: '10.56553/popets-2024-0091'
 
-abstract: 'Remote Identification (RID) regulations recently promulgated worldwide are forcing commercial drones to broadcast wirelessly the location of the pilot in plaintext. However, in many real-world use cases, the plaintext availability of such information leads to privacy issues, allowing the extraction of sensitive information about the pilot and confidential details about the drone’s business. To address this issue, this paper proposes SNELL, a RID-compliant solution for selective authenticated pilot location disclosure. Using SNELL, a drone can disclose RID messages providing encrypted information about the pilot’s location. At the same time, thanks to the smart integration of Ciphertext-Policy Attribute-Based Encryption (CP-ABE) techniques, the data about the pilot location can be decrypted only by receivers with a set of attributes satisfying an access control policy chosen by the drone at run-time. Thanks to an extensive experimental assessment carried out on a real medium-end drone (Lumenier QAV-R) and a constrained chip (ESP32), we demonstrate that SNELL can fulfil all the requirements imposed by RID and relevant standardization authorities in terms of pilot location update time and message size while also requiring negligible energy toll on RID compliant drones.'
+abstract: 'XXX'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -41,8 +41,8 @@ tags: []
 featured: false
 
 # Links
-url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3627106.3627174'
-url_code: 'https://github.com/pietrotedeschi/lppd/'
+url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S108480452400016X'
+url_code: 'https://github.com/pietrotedeschi/snell'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -68,6 +68,4 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-
 ---
-
