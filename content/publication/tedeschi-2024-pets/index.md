@@ -25,7 +25,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*XXX*'
+publication: '*Privacy Enhancing Technologies Symposium (PETS 2024)*'
 publication_short: ''
 
 doi: '10.56553/popets-2024-0091'
@@ -41,8 +41,8 @@ tags: []
 featured: false
 
 # Links
-url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S108480452400016X'
-url_code: 'https://github.com/pietrotedeschi/snell'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -68,4 +68,5 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+
 ---
