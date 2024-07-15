@@ -17,7 +17,7 @@ author_notes: []
 date: '2024-07-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-06-07T07:05:01.224560Z'
+publishDate: '2023-12-07T07:05:01.224560Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -30,7 +30,7 @@ publication_short: ''
 
 doi: '10.56553/popets-2024-0091'
 
-abstract: 'Remote Identification (RID) regulations recently promulgated worldwide are forcing commercial drones to broadcast wirelessly the location of the pilot in plaintext. However, in many real-world use cases, the plaintext availability of such information leads to privacy issues, allowing the extraction of sensitive information about the pilot and confidential details about the drone's business. To address this issue, this paper proposes SNELL, a RID-compliant solution for selective authenticated pilot location disclosure. Using SNELL, a drone can disclose RID messages providing encrypted information about the pilot's location. At the same time, thanks to the smart integration of Ciphertext-Policy Attribute-Based Encryption (CP-ABE) techniques, the data about the pilot location can be decrypted only by receivers with a set of attributes satisfying an access control policy chosen by the drone at run-time. Thanks to an extensive experimental assessment carried out on a real medium-end drone (Lumenier QAV-R) and a constrained chip (ESP32), we demonstrate that SNELL can fulfil all the requirements imposed by RID and relevant standardization authorities in terms of pilot location update time and message size while also requiring negligible energy toll on RID-compliant drones.'
+abstract: 'Test'
 
 # Summary. An optional shortened abstract.
 summary: ''
