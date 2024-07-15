@@ -7,14 +7,14 @@ title: 'Selective Authenticated Pilot Location Disclosure for Remote ID-enabled 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Pietro Tedeschi
-- Siva Ganesh Ganti 
+- Siva Ganesh Ganti
 - Savio Sciancalepore
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2024-07-17'
+date: '2024-07-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-06-07T07:05:01.224560Z'
