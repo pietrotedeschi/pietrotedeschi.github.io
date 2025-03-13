@@ -355,7 +355,6 @@ sections:
         
         * #### Technical (Program) Committee ####
           * IEEE Journal on Selected Areas in Communications (JSAC) - Special Issue on Zero Trust for Next-Generation Networking 2024
-          * Prova 2025
           * 18th International Conference on Network and System Security (NSS)
           * EAI SecureComm 2024
           * 3rd Workshop on Security and Privacy in Connected Embedded Systems (SPICES 2024) Co-located with EWSN 2024
@@ -375,6 +374,7 @@ sections:
         * #### Reviewer ####
           * IEEE Journal on Selected Areas in Communications (JSAC) - Special Issue on Zero Trust for Next-Generation Networking 2024
           * EAI SecureComm 2024
+          * EAI SecureComm 2025
           * IEEE International Conference on Computer Communications (INFOCOM) 2024
           * IEEE Wireless Communications and Networking Conference (WCNC) 2024
           * Annual Computer Security Applications Conference (ACSAC) 2023
