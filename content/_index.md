@@ -372,7 +372,6 @@ sections:
           * Wireless Days 2021 - 12th Wireless Days Conference
 
         * #### Reviewer ####
-          * IEEE Journal on Selected Areas in Communications (JSAC) - Special Issue on Zero Trust for Next-Generation Networking 2024
           * EAI SecureComm 2025
           * IEEE International Conference on Computer Communications (INFOCOM) 2024
           * IEEE Wireless Communications and Networking Conference (WCNC) 2024
