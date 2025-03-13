@@ -372,7 +372,7 @@ sections:
           * Wireless Days 2021 - 12th Wireless Days Conference
 
         * #### Reviewer ####
-          * EAI SecureComm 2025
+          * EAI SecureComm 2024
           * IEEE International Conference on Computer Communications (INFOCOM) 2024
           * IEEE Wireless Communications and Networking Conference (WCNC) 2024
           * Annual Computer Security Applications Conference (ACSAC) 2023
