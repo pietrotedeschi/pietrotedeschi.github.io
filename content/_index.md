@@ -354,6 +354,11 @@ sections:
           * 1st Workshop on Security and Privacy of Mobile IoT (SP-MIoT) in conj. with ESORICS 2022
         
         * #### Technical (Program) Committee ####
+          * IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT) 2025
+          * EAI SecureComm 2025
+          * 7th International Workshop on Wireless Sensors & Drones in IoT Conference (Wi-DroIT 2025)
+          * IEEE Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT) 2025
+          * IEEE International Conference on Computer Communications and Networks (ICCCN 2025)
           * IEEE Journal on Selected Areas in Communications (JSAC) - Special Issue on Zero Trust for Next-Generation Networking 2024
           * 18th International Conference on Network and System Security (NSS)
           * EAI SecureComm 2024
@@ -372,6 +377,12 @@ sections:
           * Wireless Days 2021 - 12th Wireless Days Conference
 
         * #### Reviewer ####
+          * IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT) 2025
+          * EAI SecureComm 2025
+          * 7th International Workshop on Wireless Sensors & Drones in IoT Conference (Wi-DroIT 2025)
+          * IEEE Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT) 2025
+          * IEEE International Conference on Computer Communications and Networks (ICCCN 2025)
+          * IEEE Journal on Selected Areas in Communications (JSAC) - Special Issue on Zero Trust for Next-Generation Networking 2024
           * EAI SecureComm 2024
           * IEEE International Conference on Computer Communications (INFOCOM) 2024
           * IEEE Wireless Communications and Networking Conference (WCNC) 2024
