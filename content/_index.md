@@ -354,8 +354,14 @@ sections:
           * 1st Workshop on Security and Privacy of Mobile IoT (SP-MIoT) in conj. with ESORICS 2022
         
         * #### Technical (Program) Committee ####
+          * IEEE AIoT 2025
+          * EAI SecureComm 2025
+          * 7th International Workshop on Wireless Sensors & Drones in IoT Conference Wi-DroIT 2025
+          * International Conference on Computer Communications and Networks 2025
+          * IEEE DCOSS-IoT 2025
+          * 34th International Conference on Computer Communications and Networks (ICCCN 2025)
+          * 18th International Conference on Network and System Security (NSS 2024)
           * IEEE Journal on Selected Areas in Communications (JSAC) - Special Issue on Zero Trust for Next-Generation Networking 2024
-          * 18th International Conference on Network and System Security (NSS)
           * EAI SecureComm 2024
           * 3rd Workshop on Security and Privacy in Connected Embedded Systems (SPICES 2024) Co-located with EWSN 2024
           * 6th International Workshop on Wireless Sensors and Drones in Internet of Things 2024 (Wi-DroIT 2024, co-located with DCOSS 2024)
@@ -372,6 +378,14 @@ sections:
           * Wireless Days 2021 - 12th Wireless Days Conference
 
         * #### Reviewer ####
+          * IEEE AIoT 2025
+          * EAI SecureComm 2025
+          * 7th International Workshop on Wireless Sensors & Drones in IoT Conference Wi-DroIT 2025
+          * International Conference on Computer Communications and Networks 2025
+          * IEEE DCOSS-IoT 2025
+          * 34th International Conference on Computer Communications and Networks (ICCCN 2025)
+          * 18th International Conference on Network and System Security (NSS 2024)
+          * IEEE Journal on Selected Areas in Communications (JSAC) - Special Issue on Zero Trust for Next-Generation Networking 2024
           * EAI SecureComm 2024
           * IEEE International Conference on Computer Communications (INFOCOM) 2024
           * IEEE Wireless Communications and Networking Conference (WCNC) 2024
