@@ -354,6 +354,7 @@ sections:
           * 1st Workshop on Security and Privacy of Mobile IoT (SP-MIoT) in conj. with ESORICS 2022
         
         * #### Technical (Program) Committee ####
+          * 9th Cyber Security in Networking Conference (CSNet 2025)
           * IEEE AIoT 2025
           * EAI SecureComm 2025
           * 7th International Workshop on Wireless Sensors & Drones in IoT Conference Wi-DroIT 2025
@@ -378,6 +379,7 @@ sections:
           * Wireless Days 2021 - 12th Wireless Days Conference
 
         * #### Reviewer ####
+          * 9th Cyber Security in Networking Conference (CSNet 2025)
           * IEEE AIoT 2025
           * EAI SecureComm 2025
           * 7th International Workshop on Wireless Sensors & Drones in IoT Conference Wi-DroIT 2025
