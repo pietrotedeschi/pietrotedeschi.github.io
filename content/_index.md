@@ -343,11 +343,7 @@ sections:
     content:
       title: Academic Services
       text: |-
-        * #### Invited Speaker ####
-          * Politecnico di Bari - Seminar 2025 - Hack Is in the Air: Breaking Boundaries of Wireless Communications
-          * Commissione Automazione e Domotica dell’Ordine degli Ingegneri di Roma 2024 - Industrial IoT: Security and Privacy in IT/OT Integration
-          * ITASEC '23: Security and Privacy Issues in the Age of Drones
-          * Apulia CyberSecurity Forum 2022
+
 
         * #### Journal Editor ####
           * Guest Associate Editor in Security, Privacy and Authentication. Frontiers in Communications and Networks Security, Privacy and Authentication - Security and Privacy for Underwater, Aerial and Ground Vehicles
