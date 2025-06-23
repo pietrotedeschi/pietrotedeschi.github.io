@@ -357,6 +357,7 @@ sections:
           * 1st Workshop on Security and Privacy of Mobile IoT (SP-MIoT) in conj. with ESORICS 2022
         
         * #### Technical (Program) Committee ####
+          * International Conference on Information Systems Security and Privacy (ICISSP) 2026
           * IEEE 9th Cyber Security in Networking Conference (CSNet 2025)
           * IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT) 2025
           * EAI SecureComm 2025
@@ -382,6 +383,7 @@ sections:
           * Wireless Days 2021 - 12th Wireless Days Conference
 
         * #### Reviewer ####
+          * International Conference on Information Systems Security and Privacy (ICISSP) 2026
           * IEEE 9th Cyber Security in Networking Conference (CSNet 2025)
           * IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT) 2025
           * EAI SecureComm 2025
