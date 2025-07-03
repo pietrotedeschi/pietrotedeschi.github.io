@@ -49,8 +49,8 @@ tags: []
 featured: false
 
 # Links
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9162320'
-url_code: 'https://github.com/pietrotedeschi/secureais'
+url_pdf: 'https://ieeexplore.ieee.org/document/11047556'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
