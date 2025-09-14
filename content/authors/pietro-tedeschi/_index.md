@@ -14,15 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Head of Cyber Electromagnetic Warfare Research
+role: Head of Digital Lab - Cyber & Security Solutions
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: CY4GATE S.p.A
-    url: https://www.cy4gate.com/en/
+  - name: Leonardo S.p.A
+    url: https://www.leonardo.com/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Unmanned Aerial Vehicles Security, Maritime Security, Wireless Security, Internet of Things (IoT), Applied Cryptography, Privacy Preserving Systems, and Cyber-Physical Systems Security.
+bio: My research interests include Unmanned Aerial Vehicles Security, Space Security, Air Security, Land Security, Maritime Security, Wireless Security, Internet of Things (IoT), Applied Cryptography, Privacy Preserving Systems, and Cyber-Physical Systems Security.
 
 # Interests to show in About widget
 interests:
@@ -69,7 +69,7 @@ skills:
         icon_pack: fas
       - name: Project Management
         description: ''
-        percent: 85
+        percent: 95
         icon: list-check
         icon_pack: fas
   - name: Soft
@@ -83,17 +83,17 @@ skills:
         icon_pack: fas
       - name: Critical Thinking
         description: ''
-        percent: 95
+        percent: 98
         icon: lightbulb
         icon_pack: fas
       - name: Leadership
         description: ''
-        percent: 95
+        percent: 98
         icon: flag
         icon_pack: fas
       - name: Teamwork
         description: ''
-        percent: 95
+        percent: 98
         icon: people-group
         icon_pack: fas
 
@@ -134,9 +134,11 @@ social:
 highlight_name: true
 ---
 
-I am currently Head of Cyber Electromagnetic Warfare Research at [Cy4Gate S.p.A](https://www.cy4gate.com/en/).
+I am currently Head of Digital Lab - Cyber and Security Solutions at [Leonardo S.p.A](https://www.leonardo.com/en/).
 
-Prior to this, I worked as a Senior Security Researcher at [Technology Innovation Institute](https://www.tii.ae/), and as Security Researcher at [Consorzio Nazionale Interuniversitario per le Telecomunicazioni](https://www.cnit.it/en/).
+Prior to this, I worked as Head of Cyber Electromagnetic Warfare Research at [Cy4Gate S.p.A](https://www.cy4gate.com/en/).
+
+Before, I worked as Senior Security Researcher at [Technology Innovation Institute](https://www.tii.ae/), and as Security Researcher at [Consorzio Nazionale Interuniversitario per le Telecomunicazioni](https://www.cnit.it/en/).
 
 During my Bachelor's thesis, advised by [Prof. Gennaro Boggia](https://scholar.google.it/citations?user=uKhe8rkAAAAJ&hl=en&oi=ao), I came up with a lightweight key agreement protocol for constrained IoT devices in IEEE 802.15.4e networks by adopting the Elliptic Curve Diffie Hellman protocol and the implicit certificates ECQV.
 
@@ -144,5 +146,6 @@ During my Master's thesis, advised by [Prof. Luigi Alfredo Grieco](https://schol
 
 My Ph.D, advised by [Prof. Roberto Di Pietro](https://scholar.google.it/citations?user=Io9QeG0AAAAJ&hl=en&oi=ao), allowed me to design and developing of (i) a dead-reckoning system that leverages the jamming signal to estimate the UAV position; (ii) a privacy-preserving, distributed, and lightweight solution for co-location detection and collision avoidance of autonomous UAVs, and (iii) an anonymous remote identification system for UAVs to allow them to broadcast RemoteID-compliant messages using ephemeral pseudonyms.
 
-My research journey allowed me to publish 40+ scientific papers (journals and conferences), 12 proof-of-concepts, and 3 patents.
+My research journey allowed me to publish 40+ scientific papers (journals and conferences), 12 proof-of-concepts, and 3 patents - 1080+ citations, h-index:18.
 {style="text-align: justify;"}
+
