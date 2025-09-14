@@ -63,13 +63,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Head of Digital Lab - Cyber & Security Solutions
+          company: Leonardo S.p.A
+          company_url: 'https://www.leonardo.com/en/'
+          # company_logo: org-x
+          location: Rome, Italy
+          date_start: '2025-09-09'
+          date_end: ''
+          description: Research and Development, Product and Innovation Technology.
+          # description: |2-
+          #     Responsibilities include:
         - title: Head of Cyber Electromagnetic Warfare Research
           company: CY4GATE S.p.A
           company_url: 'https://www.cy4gate.com/en/'
           # company_logo: org-x
           location: Rome, Italy
           date_start: '2024-01-15'
-          date_end: ''
+          date_end: '2025-09-08'
           description: Research and Development.
           # description: |2-
           #     Responsibilities include:
@@ -124,6 +134,14 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
+          date_start: '2025-09-09'
+          description: 'I got hired as Head of Digital Lab - Cyber & Security Solutions at Leonardo S.p.A., Rome, Italy.'
+          organization: Leonardo S.p.A.
+          organization_url: https://www.leonardo.com/en/
+          title: Head of Digital Lab - Cyber & Security Solution
+          url: 'https://www.leonardo.com/en/'
+        - certificate_url: ''
+          date_end: '2025-09-08'
           date_start: '2024-01-15'
           description: 'I got hired as Head of Cyber Electromagnetic Warfare Research at CY4GATE S.p.A, Rome, Italy.'
           organization: CY4GATE S.p.A
@@ -491,3 +509,4 @@ sections:
   #   design:
   #     columns: '2'
 ---
+
