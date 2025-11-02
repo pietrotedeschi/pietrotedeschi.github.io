@@ -34,7 +34,7 @@ publication_short: ''
 
 doi: '10.14339/STO-MP-IST-209-L-08-PDF'
 
-abstract: 'ThreatWeaver is an innovative automated kill chain generator designed to validate the cyber resilience of network systems. It addresses known/unknown threats and 0-day vulnerabilities by simulating attack effects. Thanks to an extensive experimental assessment, ThreatWeaver can generate kill chains in just ≈ 12 to ≈ 547 seconds for complex networks with 2 to 64 nodes by enabling the identification of potential attack vectors and helping to mitigate the growing threats of criminal activities. This paper was originally presented at the NATO Science and Technology Organization Symposium (ICMCIS) organized by the Information Systems Technology (IST)Scientific and Technical Committee.'
+abstract: 'ThreatWeaver is an innovative automated kill chain generator designed to validate the cyber resilience of network systems. It addresses known/unknown threats and 0-day vulnerabilities by simulating attack effects. Thanks to an extensive experimental assessment, ThreatWeaver can generate kill chains in just 12 to 547 seconds for complex networks with 2 to 64 nodes by enabling the identification of potential attack vectors and helping to mitigate the growing threats of criminal activities. This paper was originally presented at the NATO Science and Technology Organization Symposium (ICMCIS) organized by the Information Systems Technology (IST)Scientific and Technical Committee.'
 
 # Summary. An optional shortened abstract.
 summary: ''
