@@ -1,5 +1,5 @@
 ---
-title: ThreatWeaver: Automated Kill Chain Generator Based on MITRE ATT&CK and Graph Theory
+title: ThreatWeaver - Automated Kill Chain Generator Based on MITRE ATT&CK and Graph Theory
 
 # Authors
 # A YAML list of author names
