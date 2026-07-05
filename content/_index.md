@@ -63,7 +63,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Head of Digital Lab - Cyber & Security Solutions
+        - title: Head of Digital Security Lab - Cyber & Security Solutions
           company: Leonardo S.p.A
           company_url: 'https://www.leonardo.com/en/'
           # company_logo: org-x
@@ -135,10 +135,10 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2025-09-09'
-          description: 'I got hired as Head of Digital Lab - Cyber & Security Solutions at Leonardo S.p.A., Rome, Italy.'
+          description: 'I got hired as Head of Digital Security Lab - Cyber & Security Solutions at Leonardo S.p.A., Rome, Italy.'
           organization: Leonardo S.p.A.
           organization_url: https://www.leonardo.com/en/
-          title: Head of Digital Lab - Cyber & Security Solution
+          title: Head of Digital Security Lab - Cyber & Security Solution
           url: 'https://www.leonardo.com/en/'
         - certificate_url: ''
           date_end: '2025-09-08'
