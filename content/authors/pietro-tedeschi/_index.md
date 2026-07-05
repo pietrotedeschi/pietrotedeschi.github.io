@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Head of Digital Lab - Cyber & Security Solutions
+role: Head of Digital Security Lab - Cyber & Security Solutions
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -134,7 +134,7 @@ social:
 highlight_name: true
 ---
 
-I am currently Head of Digital Lab - Cyber and Security Solutions at [Leonardo S.p.A](https://www.leonardo.com/en/).
+I am currently Head of Digital Security Lab - Cyber and Security Solutions at [Leonardo S.p.A](https://www.leonardo.com/en/).
 
 Prior to this, I worked as Head of Cyber Electromagnetic Warfare Research at [Cy4Gate S.p.A](https://www.cy4gate.com/en/).
 
