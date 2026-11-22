@@ -134,6 +134,14 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
+          date_start: '2026-11-01'
+          description: 'I was recognized among the World’s Top 2% Scientists, in the prestigious global ranking compiled by Stanford University in collaboration with Elsevier.'
+          organization: Research & Development
+          organization_url: https://topresearcherslist.com/Home/Search?AuthFull=Tedeschi%2C+Pietro
+          title: World’s Top 2% Scientists 
+          url: 'https://topresearcherslist.com/Home/Search?AuthFull=Tedeschi%2C+Pietro'
+        - certificate_url: ''
+          date_end: ''
           date_start: '2025-09-09'
           description: 'I got hired as Head of Digital Security Lab - Cyber & Security Solutions at Leonardo S.p.A., Rome, Italy.'
           organization: Leonardo S.p.A.
