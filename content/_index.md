@@ -375,6 +375,9 @@ sections:
           * 1st Workshop on Security and Privacy of Mobile IoT (SP-MIoT) in conj. with ESORICS 2022
         
         * #### Technical (Program) Committee ####
+          * IEEE European Symposium on Security and Privacy (IEEE Euro S&P) 2027
+          * IEEE 23rd Annual International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT 2027)
+          * 9th International Workshop on Wireless Sensors & Drones in IoT Conference Wi-DroIT 2027
           * Annual Computer Security Applications Conference (ACSAC) 2026
           * 10th Cyber Security in Networking Conference (CSNet) 2026
           * 8th International Workshop on Wireless Sensors & Drones in IoT Conference Wi-DroIT 2026
@@ -406,6 +409,9 @@ sections:
           * Wireless Days 2021 - 12th Wireless Days Conference
 
         * #### Reviewer ####
+          * IEEE European Symposium on Security and Privacy (IEEE Euro S&P) 2027
+          * IEEE 23rd Annual International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT 2027)
+          * 9th International Workshop on Wireless Sensors & Drones in IoT Conference Wi-DroIT 2027
           * Annual Computer Security Applications Conference (ACSAC) 2026
           * 10th Cyber Security in Networking Conference (CSNet) 2026
           * 8th International Workshop on Wireless Sensors & Drones in IoT Conference Wi-DroIT 2026
